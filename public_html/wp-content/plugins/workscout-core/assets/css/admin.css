@@ -1,0 +1,101 @@
+.workscout_drag_list li {
+	outline: none;
+    font-size: 15px;
+    color: #808080;
+    margin: 0 0 16px 0;
+    padding: 12px;
+    width: 100%;
+    box-sizing: border-box;
+    display: block;
+    background-color: #fff;
+    box-shadow: 4px 4px 1px #ededed;
+    font-weight: 500;
+    opacity: 1;
+    border-radius: 3px;
+    position: relative;
+    max-width: 420px;
+}
+.workscout_drag_list li span {
+	float: right;
+	cursor: pointer;
+}
+
+
+
+/* Leaflet autocomplete  */
+#leaflet-geocode-cont {
+    position: absolute;
+    z-index: 110;
+    background: #fff;
+    border: 1px solid #e0e0e0;
+    border-radius: 0 0 4px 4px;
+    top: 30px;
+    box-shadow: 0 1px 5px rgba(0,0,0,0.05);
+    display: none;
+    width: 400px;
+}
+
+#leaflet-geocode-cont.active {
+    display: block;
+}
+
+#leaflet-geocode-cont ul { 
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+
+#leaflet-geocode-cont ul li { 
+    color: #888;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    padding: 11px 15px;
+    padding-left: 38px;
+    margin: 0;
+    border-bottom: 1px solid #e8e8e8;
+    cursor: pointer;
+    transition: 0.3s;
+    position: relative;
+/*     white-space: nowrap;
+overflow: hidden;
+text-overflow: ellipsis; */
+}
+
+#leaflet-geocode-cont ul li:before { 
+    content: "\f041";
+    font-family: "FontAwesome";
+    font-size: 14px;
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    margin-right: 0;
+    color: #aaa;
+    transition: 0.3s;
+}
+
+#leaflet-geocode-cont ul li:hover:before {
+    color: #a0a0a0;
+} 
+
+#leaflet-geocode-cont ul li:last-child { 
+    border: none;
+    border-radius: 0 0 4px 4px;
+}
+
+#leaflet-geocode-cont ul li.selected,
+#leaflet-geocode-cont ul li:hover {
+    background: #fafafa;
+} 
+
+#leaflet-geocode-cont span.highlight {
+    color: #222;
+    font-weight: 700;
+}
+
+
+div#setting-error-tgmpa {
+    border-color: red;
+    background: #ffc2c266;
+}

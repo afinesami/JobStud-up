@@ -1,0 +1,526 @@
+/*
+Theme Name: WorkScout
+
+Adding support for language written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+http://codex.wordpress.org/Right_to_Left_Language_Support
+
+*/
+
+body.rtl { direction: ltr !important; }
+
+#wrapper {
+    direction: rtl;
+    unicode-bidi: embed;
+}
+
+#navigation .float-right {  left : 10px;   position: absolute;}
+ul.float-right li a { background-color: #f0f0f0; color: #333; }
+
+#alternative #navigation .float-right {    left: 10px;    float: right;    position: absolute; }
+
+.showbiz-navigation {   float: left; }
+
+li .job-spotlight {  margin-left: 20px; }
+.sb-navigation-left, .sb-navigation-right {  cursor: pointer;   float: left; }
+#titlebar .two-buttons .button { position: static; margin-top:40px; }
+
+.showbiz-navigation {
+    float: left;
+    margin-left: 10px;
+}
+
+#backtotop a::after {
+    float: left;
+}
+
+.footer-widget.widget_categories li::before, .footer-widget.widget-out-title_categories li::before, .footer-widget.widget_archive li::before, .footer-widget.widget-out-title_archive li::before, .footer-widget.widget_recent_entries li::before, .footer-widget.widget-out-title_recent_entries li::before, .footer-widget.categories li::before, .footer-widget.widget_meta li::before, .footer-widget.widget_nav_menu li::before, .footer-widget.widget_pages li::before {
+    content: "\f0d9";
+    padding: 0 0 0 7px;
+    right: 0;
+    z-index: 9;
+}
+
+.footer-widget.widget_categories li a, .footer-widget.widget-out-title_categories li a, .footer-widget.widget_archive li a, .footer-widget.widget-out-title_archive li a, .footer-widget.widget_recent_entries li a, .footer-widget.widget-out-title_recent_entries li a, .footer-widget.categories li a, .footer-widget.widget_pages li a, .footer-widget.widget_nav_menu li a, .footer-widget.widget_recent_comments li a, #footer .widget_recent_comments li a, .footer-widget.widget_meta li a {
+    padding: 0 13px 9px 0px !important;
+    z-index: 10;
+    position: relative;
+  }
+
+.resume-titlebar span, .map-box span, .resume-spotlight span, .job-spotlight span, .job_listings > li a span, .job_listings > .job_listings > .job_listings > li a span, .job-list > li a span, .job-list > .job_listings > .job_listings > li a span, .resumes li a span {
+    margin-left: 12px;
+    margin-right: 0;
+}
+
+.job-list h4 span { margin: 0 8px 0 0 !important; }
+
+.resume-titlebar i, .job-spotlight i, .resume-spotlight i, .map-box a i, .job_listings > li a i, .job-list > li a i, .resumes li a i {
+    margin-right: 0px;
+    margin-left: 4px;
+}
+
+.job-list .job-list-content {
+    padding-right: 0px;
+    padding-left: 20px;
+}
+
+.search-container button,
+.search-container input { float: right; }
+
+.search-container .chosen-container, .search-container select, .search-container input {
+    margin-left: 2%;
+    margin-right: 0;
+}
+
+input.ico-02 {
+    background: #fff url("images/ico-02.png") no-repeat scroll 4% 20px / 14px 21px;
+}
+
+input.ico-01 {
+    background: #fff url("images/ico-01.png") no-repeat scroll 4% 20px / 20px 20px;
+}
+
+.browse-jobs a {
+    margin-left: 5px;
+    margin-right: 0;
+}
+
+.browse-jobs, .announce {
+    float: right;
+    display: block;
+    width: 100%;
+}
+
+.search-container:after {
+    clear: both;
+    content: "";
+    display: block;
+}
+
+#logo,
+#navigation { float: right;}
+
+
+#navigation ul.float-right {
+    left: 0px;
+    right: initial;
+}
+
+.menu ul {
+    margin: 26px 25px 0 0px;
+}
+
+#backtotop {
+    right: inherit;
+    left: 0;
+    margin: 20px;
+}
+
+.info-content {
+    float: right;
+}
+
+.info-banner a.button {
+    float: left;
+}
+
+.ptwsi_social-icons li a.ptwsi-social-icon { direction: ltr; }
+
+body .woocommerce-MyAccount-navigation li, body .woocommerce-tabs .tabs li, body ul.tabs-nav-o li, body ul.tabs-nav li {
+    float:right;
+}
+
+.entry-content ul.ptwsi_social-icons li, .content ul.ptwsi_social-icons li, ul.ptwsi_social-icons li {
+    float: right;
+}
+
+div.wpcf7-response-output p, .notification p {
+    float: right;
+}
+
+.page .wpcf7-form input[type="submit"] {
+    margin-top: 0;
+    float: right;
+}
+
+.widget-box input {
+    padding-right: 43px;
+}
+
+#titlebar .button {
+    right: inherit;
+    left: 10px;
+}
+
+.nav-next, .pagination-next-prev a.next {
+    float: left;
+}
+
+.nav-previous, .pagination-next-prev a.prev {
+    float: right;
+}
+
+.post-img:hover .hover-icon, .recent-post-img:hover .hover-icon {
+    direction: ltr
+}
+
+.alternative .menu ul li {
+    margin: 0 0 0 10px;
+    float: right;
+}
+
+.menu li .sub-menu { right: 0;}
+.menu li .sub-menu:before { right: 20px; }
+
+#breadcrumbs ul li {
+    margin: 0;
+}
+
+#breadcrumbs ul li:after {
+    display: none;
+}
+
+#breadcrumbs ul li:before {
+    content: "\f104";
+    font-family: "FontAwesome";
+    margin: 0 10px 0 10px;
+}
+
+#breadcrumbs ul li:last-child:before {
+    content: "";
+    margin: 0;
+}
+
+.post-content table th, article.page table th, table.shop_table th, table.manage-table th {
+    text-align: right;
+    padding: 18px 40px 18px 20px;
+}
+
+table.manage-table th i {
+    right: 17px;
+    left: inital;
+}
+
+table.manage-table td.action a i {
+    right: -21px;
+    left: initial;
+}
+
+.upload-btn {
+    float: right;
+    margin-left: 18px;
+    margin-right: 0;
+}
+
+.chosen-container-multi .chosen-choices li.search-choice {
+    float: right;
+}
+
+#titlebar .container div { float: right;}
+
+
+#footer .container .columns { float: right; }
+
+.checkboxes input[type="checkbox"]:checked + label::before {
+    float: right;
+    right: -40px;
+}
+
+.checkboxes label {
+    padding-left: 0px;
+    margin-right: 30px;
+}
+
+.checkboxes label::before {
+    left: initial;
+    right: -40px;
+
+}
+
+.chosen-container-single .chosen-search::before {display: none;}
+
+
+
+.widget_range_filter.widget span {
+    float: right;
+}
+.widget_range_filter.widget span.to {
+    float:right;
+    position: relative
+}
+
+.widget_range_filter.widget span.to:before {
+    float:left;
+    height: 22px;
+    width: 30px;
+    display: block;
+    content: "";
+    background: #fff;
+    position: absolute;
+    left: -30px;
+    text-align: left;
+}
+
+
+.widget_range_filter.widget span.from:after {
+    content: "-";
+    margin-left: 10px;
+    padding-right: 10px;
+}
+
+.list-search button {
+   float: left;
+}
+
+.resumes li a p, .job_listings > li a p, .job-list > li a p {
+padding-right: 90px;
+}
+
+.job_listings img, .job-list img {
+    float: right;
+    margin-right: 35px;
+}
+
+.job-overview ul li div {
+    margin-right: 25px;
+    margin-left: 0;
+}
+
+.company-info img {
+    float: right;
+    margin-left: 30px;
+    margin-right: 0;
+}
+
+.list-1 li::before {
+    float: right;
+    margin-right: -20px;
+}
+
+.list-1 li {
+    margin: 7px 20px 7px 0px;
+}
+
+.mfp-close {
+    top: 0;
+    right: initial;
+    left: 0;
+}
+
+.mfp-content { direction: rtl; text-align: right}
+
+div.small-dialog {
+    text-align: right }
+
+.resume-titlebar .resumes-content, .resumes .resumes-content, .job_listings .job-list-content, .job-list .job-list-content {
+    margin-left: 0px;
+    margin-right: 125px;
+}
+
+.company-info .content {
+    float: right;
+}
+
+.button i {
+    margin: 0 0 0 6px;
+}
+
+.flex-control-paging li a {
+    text-indent: 9999px;
+}
+
+.resumes img, .resumes .photo-rounded img {
+    border-radius: 50%;
+    width: 90px;
+    height: 90px;
+    float: right;
+    display: inline-block;
+    margin: 35px 35px 35px 0;
+}
+
+.resumes li a p, .job_listings > li a p, .job-list > li a p {
+    padding-right: 0px;
+}
+
+.resumes-content .skills span {
+    float: right;
+}
+
+.resumes .resumes-content {
+    margin-left: 0px;
+    margin-right: 165px;
+}
+
+.resume-titlebar img {
+    float: right;
+}
+
+.resume-titlebar .resumes-content {
+    float: none !important;
+    margin-right: 150px;
+}
+
+.two-buttons { float: left !important;  }
+
+#titlebar .two-buttons .button {transform: translateY(0%) !important; }
+
+.two-buttons .bookmark-notice { display: none; 
+    transform: translateY(0%);}
+
+table.manage-table.resumes th i {
+    top: 22px;
+}
+
+#job-manager-alerts td, #job-manager-alerts th {
+    padding: 18px 20px 18px 20px;
+}
+#job-manager-alerts th {
+    padding: 18px 40px 18px 20px;
+}
+
+ul.social-icons {direction: ltr !important; }
+
+.widget input#search_radius {
+    float: right;
+}
+
+.widget select.radius_type {
+    margin-left: 0px;
+    margin-right: 10px;
+    float: left;
+}
+
+ul.share-post li {
+    float: right;
+}
+
+ul.share-post li a::before {
+    margin: 0 0 0 6px;
+}
+
+.chosen-container-multi .chosen-choices li {
+    float: right;
+    list-style: none;
+}
+
+.resume-table strong::before {
+    left: initial;
+    right: -13px;
+}
+
+.resume-table dd, .resume-table dt {
+    border-right: 2px solid #e0e0e0;
+    border-left: none;
+    padding: 0 20px 0 0;
+}
+
+dl.resume-table dt {
+    text-align: right;
+    padding-right: 30px;
+    padding-top: 18px;
+    margin-right: 20px;
+}
+
+a.menu-trigger i {
+    margin: 0px 0px 0px 10px;
+}
+
+.jPanelMenu-panel {
+    transform: translateX(-250px) !important;
+}
+
+#jPanelMenu-menu { direction: rtl; left: initial !important; right: 0 !important; }
+
+header#main-header {
+    direction: rtl;
+}
+
+
+@media only screen and (max-width: 479px) {
+    .resume-titlebar .resumes-content, .resumes .resumes-content, .job_listings .job-list-content, .job-list .job-list-content {
+         margin-left: 0px;
+         margin-right: 20px;
+    }
+
+    #search_location_chosen { float: right; margin-left: 0; }
+    input.ico-01 {
+        background: #fff
+    }
+}
+
+
+.sf-with-ul:after { float: left; margin: 0 7px 0 0; }
+
+ul.ui-autocomplete { width: 50%; direction: rtl; }
+
+.ui-menu li.ui-menu-item {
+    text-align: right;
+    direction: rtl;
+    float: right;
+}
+
+
+#navigation ul.float-right li a i {
+    float: left;
+    margin: 2px 4px 0 0;
+}
+
+
+#navigation ul.float-right li:first-child {
+    float: right;
+    
+}
+#navigation ul.float-right li{
+    float: right;
+    
+}
+
+dl.resume-table dd {
+    margin-left: 0px;
+    margin-bottom: 0em;
+    margin-right: 20px;
+}
+
+
+#search_location_chosen { float: right; }
+
+.chosen-container-single .chosen-single span {
+    margin-right: 36px;
+}
+
+.app-content .buttons {
+    float: left;
+    left: 40px;
+    right: initial;
+}
+.app-content img {
+    margin-right: 0px;
+    margin-left: 20px;
+    float: right;
+}
+
+.app-content .info ul li {
+    display: inline-block;
+    margin-right: 0px;
+    margin-left: 15px;
+}
+
+.app-footer ul li i,
+.app-content .info ul li a i {
+    margin-right: 0px;
+    margin-left: 3px;
+}
+
+.button.gray.margin-top-15.delete-application.delete_job_application { float: left; }
+
+.app-tabs a.close-tab {
+    right: initial;
+    left: 0;
+}
+.job-application-meta dt { float: right}
+
+body .menu > ul li {
+    float: right;
+}

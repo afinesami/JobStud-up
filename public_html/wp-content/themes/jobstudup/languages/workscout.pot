@@ -1,0 +1,4448 @@
+# <!=Copyright (C) 2020 Purethemes
+# This file is distributed under the ThemeForest.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: WorkScout 2.0.11\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2020-04-24 22:44:22+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n1.0.2\n"
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: archive-job_listing.php:101 template-parts/archive-jobs-regular.php:35
+msgid "Browse Jobs"
+msgstr ""
+
+#: archive-job_listing.php:104 template-parts/archive-jobs-regular.php:38
+msgid ""
+"We have <em class=\"count_jobs\">%s</em> <em class=\"job_text\">job "
+"offer</em> for you"
+msgid_plural ""
+"We have <em class=\"count_jobs\">%s</em> <em class=\"job_text\">job "
+"offers</em> for you"
+msgstr[0] ""
+msgstr[1] ""
+
+#: archive-job_listing.php:111
+msgid "Jobs"
+msgstr ""
+
+#: archive-job_listing.php:167 search-fields/split-jobs-keywords.php:7
+#: sidebar-jobs.php:39 sidebar-jobs.php:53 single-company.php:72
+#: taxonomy-job_listing_category.php:145 taxonomy-job_listing_region.php:144
+#: taxonomy-job_listing_tag.php:145 taxonomy-job_listing_type.php:147
+#: taxonomy-resume_category.php:157 taxonomy-resume_region.php:157
+#: taxonomy-resume_skill.php:157 template-home-old.php:32
+#: template-jobs-no-map.php:70 template-jobs.php:85
+#: template-parts/archive-jobs-regular.php:93
+msgid "job title, keywords or company name"
+msgstr ""
+
+#: archive-job_listing.php:180 archive-resume.php:128
+#: job_manager/job-dashboard.php:61 job_manager/job-dashboard.php:80
+#: resumes.php:88 single-company.php:80 taxonomy-resume_category.php:166
+#: taxonomy-resume_region.php:166 taxonomy-resume_skill.php:166
+#: template-contact.php:85 template-jobs-no-map.php:80 template-jobs.php:95
+#: template-parts/archive-jobs-regular.php:101
+#: template-parts/archive-resumes-regular.php:90
+#: template-parts/content-page.php:75 wp-job-manager-alerts/my-alerts.php:110
+#: wp-job-manager-applications/job-applications.php:88
+#: wp-job-manager-resumes/candidate-dashboard.php:71
+#: wp-job-manager-resumes/candidate-dashboard.php:75
+msgid "Edit"
+msgstr ""
+
+#: archive-resume.php:72 resumes.php:21
+#: template-parts/archive-resumes-regular.php:22
+msgid "We have %s resumes in our database"
+msgstr ""
+
+#: archive-resume.php:73 functions.php:422 resumes.php:22
+#: template-parts/archive-resumes-regular.php:24
+msgid "Showing all resumes"
+msgstr ""
+
+#: archive-resume.php:117 resumes.php:76
+#: search-fields/split-resume-keywords.php:7 template-home-resumes.php:54
+#: template-parts/archive-resumes-regular.php:78
+msgid "Search freelancer services (e.g. logo design)"
+msgstr ""
+
+#: comments.php:38 comments.php:60
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:41 comments.php:63
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:42 comments.php:64
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:76
+msgid "Comments are closed."
+msgstr ""
+
+#: envato_setup/envato_setup.php:356 envato_setup/envato_setup.php:361
+msgid "Setup Wizard"
+msgstr ""
+
+#: envato_setup/envato_setup.php:381
+msgid "Introduction"
+msgstr ""
+
+#: envato_setup/envato_setup.php:388
+msgid "Plugins"
+msgstr ""
+
+#: envato_setup/envato_setup.php:399
+msgid "Content"
+msgstr ""
+
+#: envato_setup/envato_setup.php:404
+msgid "Logo & Design"
+msgstr ""
+
+#: envato_setup/envato_setup.php:409
+msgid "Customize"
+msgstr ""
+
+#: envato_setup/envato_setup.php:414
+msgid "Support"
+msgstr ""
+
+#: envato_setup/envato_setup.php:419
+msgid "Ready!"
+msgstr ""
+
+#: envato_setup/envato_setup.php:452
+msgid "...verifying"
+msgstr ""
+
+#: envato_setup/envato_setup.php:507
+msgid "Theme &rsaquo; Setup Wizard"
+msgstr ""
+
+#: envato_setup/envato_setup.php:540
+msgid "Return to the WordPress Dashboard"
+msgstr ""
+
+#: envato_setup/envato_setup.php:622 envato_setup/envato_setup.php:633
+#: envato_setup/envato_setup.php:656
+msgid "Welcome to the setup wizard for %s."
+msgstr ""
+
+#: envato_setup/envato_setup.php:623
+msgid ""
+"It looks like you may have recently upgraded to this theme. Great! This "
+"setup wizard will help ensure all the default settings are correct. It will "
+"also show some information about your new website and support options."
+msgstr ""
+
+#: envato_setup/envato_setup.php:626 envato_setup/envato_setup.php:669
+msgid "Let's Go!"
+msgstr ""
+
+#: envato_setup/envato_setup.php:628 envato_setup/envato_setup.php:671
+msgid "Not right now"
+msgstr ""
+
+#: envato_setup/envato_setup.php:634
+msgid ""
+"It looks like you have already run the setup wizard. Below are some "
+"options: "
+msgstr ""
+
+#: envato_setup/envato_setup.php:638
+msgid "Run Setup Wizard Again"
+msgstr ""
+
+#: envato_setup/envato_setup.php:644
+msgid "Reset font style and colors"
+msgstr ""
+
+#: envato_setup/envato_setup.php:651
+msgid "Cancel"
+msgstr ""
+
+#: envato_setup/envato_setup.php:657
+msgid ""
+"Thank you for choosing the %s theme from ThemeForest. This quick setup "
+"wizard will help you configure your new website. This wizard will install "
+"the required WordPress plugins, default content, logo and tell you a little "
+"about Help &amp; Support options. It should only take 5 minutes."
+msgstr ""
+
+#: envato_setup/envato_setup.php:666
+msgid ""
+"No time right now? If you don't want to go through the wizard, you can skip "
+"and return to the WordPress dashboard. Come back anytime if you change your "
+"mind!"
+msgstr ""
+
+#: envato_setup/envato_setup.php:713
+msgid ""
+"Options have been reset. Please go to Appearance > Customize in the "
+"WordPress backend."
+msgstr ""
+
+#: envato_setup/envato_setup.php:789
+msgid "Default Plugins"
+msgstr ""
+
+#: envato_setup/envato_setup.php:796
+msgid ""
+"Your website needs a few essential plugins. The following plugins will be "
+"installed or updated:"
+msgstr ""
+
+#: envato_setup/envato_setup.php:821
+msgid ""
+"Good news! All plugins are already installed and up to date. Please "
+"continue."
+msgstr ""
+
+#: envato_setup/envato_setup.php:824
+msgid "You can add and remove plugins later on from within WordPress."
+msgstr ""
+
+#: envato_setup/envato_setup.php:829 envato_setup/envato_setup.php:1036
+#: envato_setup/envato_setup.php:2489 envato_setup/envato_setup.php:2574
+#: envato_setup/envato_setup.php:2645
+msgid "Continue"
+msgstr ""
+
+#: envato_setup/envato_setup.php:831 envato_setup/envato_setup.php:1038
+#: envato_setup/envato_setup.php:2491 envato_setup/envato_setup.php:2590
+msgid "Skip this step"
+msgstr ""
+
+#: envato_setup/envato_setup.php:841
+msgid "No Slug Found"
+msgstr ""
+
+#: envato_setup/envato_setup.php:857
+msgid "Activating Plugin"
+msgstr ""
+
+#: envato_setup/envato_setup.php:872
+msgid "Updating Plugin"
+msgstr ""
+
+#: envato_setup/envato_setup.php:887
+msgid "Installing Plugin"
+msgstr ""
+
+#: envato_setup/envato_setup.php:897
+msgid "Success"
+msgstr ""
+
+#: envato_setup/envato_setup.php:928
+msgid "This will create default %s as seen in the demo."
+msgstr ""
+
+#: envato_setup/envato_setup.php:929 envato_setup/envato_setup.php:958
+#: envato_setup/envato_setup.php:976 envato_setup/envato_setup_init.php:67
+msgid "Pending."
+msgstr ""
+
+#: envato_setup/envato_setup.php:930
+msgid "Installing."
+msgstr ""
+
+#: envato_setup/envato_setup.php:931 envato_setup/envato_setup.php:960
+#: envato_setup/envato_setup.php:978 envato_setup/envato_setup_init.php:69
+msgid "Success."
+msgstr ""
+
+#: envato_setup/envato_setup.php:956
+msgid "Widgets"
+msgstr ""
+
+#: envato_setup/envato_setup.php:957
+msgid "Insert default sidebar widgets as seen in the demo."
+msgstr ""
+
+#: envato_setup/envato_setup.php:959
+msgid "Installing Default Widgets."
+msgstr ""
+
+#: envato_setup/envato_setup.php:974
+msgid "Settings"
+msgstr ""
+
+#: envato_setup/envato_setup.php:975
+msgid "Configure default settings."
+msgstr ""
+
+#: envato_setup/envato_setup.php:977
+msgid "Installing Default Settings."
+msgstr ""
+
+#: envato_setup/envato_setup.php:995
+msgid "Default Content"
+msgstr ""
+
+#: envato_setup/envato_setup.php:998
+msgid ""
+"It looks like you already have content installed on this website. If you "
+"would like to install the default demo content as well you can select it "
+"below. Otherwise just choose the upgrade option to ensure everything is up "
+"to date."
+msgstr ""
+
+#: envato_setup/envato_setup.php:1000
+msgid ""
+"It's time to insert some default content for your new WordPress website. "
+"Choose what you would like inserted below and click Continue. It is "
+"recommended to leave everything selected. Once inserted, this content can "
+"be managed from the WordPress admin dashboard. "
+msgstr ""
+
+#: envato_setup/envato_setup.php:1007
+msgid "Item"
+msgstr ""
+
+#: envato_setup/envato_setup.php:1008
+msgid "Description"
+msgstr ""
+
+#: envato_setup/envato_setup.php:1009 inc/class-tgm-plugin-activation.php:2639
+#: wp-job-manager-alerts/my-alerts.php:22
+#: wp-job-manager-applications/past-applications.php:5
+msgid "Status"
+msgstr ""
+
+#: envato_setup/envato_setup.php:1049
+msgid "No content Found"
+msgstr ""
+
+#: envato_setup/envato_setup.php:1117
+msgid "Error"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2124
+#: envato_setup/importer/wordpress-importer.php:910
+msgid "Remote server did not respond"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2132
+#: envato_setup/importer/wordpress-importer.php:923
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2138
+#: envato_setup/importer/wordpress-importer.php:928
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2144
+#: envato_setup/importer/wordpress-importer.php:934
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2423
+msgid "Logo &amp; Design"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2425
+msgid ""
+"Please add your logo below. For best results, the logo should be a "
+"transparent PNG ( 200 by 40 pixels). The logo can be changed at any time "
+"from the Appearance > Customize area in your dashboard. Try %sEnvato "
+"Studio%s if you need a new logo designed."
+msgstr ""
+
+#: envato_setup/envato_setup.php:2445
+msgid "Upload New Logo"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2457
+msgid ""
+"Please choose the color scheme for this website. The color scheme (along "
+"with font colors &amp; styles) can be changed at any time from the "
+"Appearance > Customize area in your dashboard."
+msgstr ""
+
+#: envato_setup/envato_setup.php:2545
+msgid "Theme Updates"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2579
+msgid ""
+"Please login using your ThemeForest account to enable Theme Updates. We "
+"update themes when a new feature is added or a bug is fixed. It is highly "
+"recommended to enable Theme Updates."
+msgstr ""
+
+#: envato_setup/envato_setup.php:2588
+msgid "Login with Envato"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2684
+msgid "Agree and Continue"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2712
+msgid "Your Website is Ready!"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2721
+msgid "Next Steps"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2725
+msgid "View your new website!"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2730
+msgid "More Resources"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2733
+msgid "Read the Theme Documentation"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2736
+msgid "Learn how to use WordPress"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2739
+msgid "Leave an Item Rating"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2741
+msgid "Get Help and Support"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2801
+msgid "Something went wrong while trying to retrieve oauth token: %s"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2818
+msgid "Login for %s updates"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2825
+msgid "oAuth Login"
+msgstr ""
+
+#: envato_setup/envato_setup_init.php:65
+msgid "Upgrade"
+msgstr ""
+
+#: envato_setup/envato_setup_init.php:66
+msgid "Upgrade Content and Settings"
+msgstr ""
+
+#: envato_setup/envato_setup_init.php:68
+msgid "Installing Updates."
+msgstr ""
+
+#: envato_setup/importer/parsers.php:42 envato_setup/importer/parsers.php:72
+#: envato_setup/importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: envato_setup/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: envato_setup/importer/parsers.php:84 envato_setup/importer/parsers.php:89
+#: envato_setup/importer/parsers.php:279 envato_setup/importer/parsers.php:468
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:134
+#: envato_setup/importer/wordpress-importer.php:143
+#: envato_setup/importer/wordpress-importer.php:194
+#: envato_setup/importer/wordpress-importer.php:198
+#: envato_setup/importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:199
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:215
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:240
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of "
+"this site. For example, you may want to import all the entries as "
+"<code>admin</code>s entries."
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:269
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually "
+"changing the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:286
+#: woocommerce/single-product-reviews.php:83
+msgid "Submit"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:374
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:425
+msgid "Failed to import category %s"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:465
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:511
+#: envato_setup/importer/wordpress-importer.php:652
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:537
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:559
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:618
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:790
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:853
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:866
+msgid "Invalid file type"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:916
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:1033
+msgid "Import WordPress"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:1040
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:1055
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:1056
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:1131
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and "
+"tags</strong> from a WordPress export file."
+msgstr ""
+
+#: footer-old.php:41
+msgid "Follow us"
+msgstr ""
+
+#: functions.php:83
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:84
+msgid "Employer Dashboard Menu"
+msgstr ""
+
+#: functions.php:85
+msgid "Candidate Dashboard Menu"
+msgstr ""
+
+#: functions.php:86
+msgid "Default Dashboard Menu"
+msgstr ""
+
+#: functions.php:142
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:151
+msgid "Jobs page sidebar"
+msgstr ""
+
+#: functions.php:160
+msgid "Single job sidebar before"
+msgstr ""
+
+#: functions.php:169
+msgid "Single job sidebar after"
+msgstr ""
+
+#: functions.php:178
+msgid "Resumes page sidebar"
+msgstr ""
+
+#: functions.php:187
+msgid "Shop page sidebar"
+msgstr ""
+
+#: functions.php:197
+msgid "Footer 1st Column"
+msgstr ""
+
+#: functions.php:198
+msgid "1st column for widgets in Footer"
+msgstr ""
+
+#: functions.php:206
+msgid "Footer 2nd Column"
+msgstr ""
+
+#: functions.php:207
+msgid "2nd column for widgets in Footer"
+msgstr ""
+
+#: functions.php:215
+msgid "Footer 3rd Column"
+msgstr ""
+
+#: functions.php:216
+msgid "3rd column for widgets in Footer"
+msgstr ""
+
+#: functions.php:224
+msgid "Footer 4th Column"
+msgstr ""
+
+#: functions.php:225
+msgid "4th column for widgets in Footer"
+msgstr ""
+
+#: functions.php:233
+msgid "Footer 5th Column"
+msgstr ""
+
+#: functions.php:234
+msgid "5th column for widgets in Footer"
+msgstr ""
+
+#: functions.php:383
+msgid "Load previous listings"
+msgstr ""
+
+#: functions.php:388
+msgid "job offer"
+msgstr ""
+
+#: functions.php:389
+msgid "job offers"
+msgstr ""
+
+#: functions.php:508
+msgid "No results match"
+msgstr ""
+
+#: header-dashboard.php:129 header-dashboard.php:134 header-dashboard.php:172
+#: header.php:145 header.php:150 header.php:189
+msgid "Log In"
+msgstr ""
+
+#: header-dashboard.php:130 header-dashboard.php:135 header.php:146
+#: header.php:151 template-dashboard.php:180 template-login.php:99
+#: woocommerce/myaccount/form-login.php:37
+#: woocommerce/myaccount/form-login.php:122
+msgid "Register"
+msgstr ""
+
+#: header-dashboard.php:184 header.php:201
+msgid "Sign Up"
+msgstr ""
+
+#: header-old.php:125
+msgid "Sign In"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:337
+#. translators: %s: plugin name.
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:339
+#. translators: %s: plugin name.
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:377
+#. translators: 1: plugin name(s).
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:393
+#: inc/class-tgm-plugin-activation.php:912
+#: inc/class-tgm-plugin-activation.php:2618
+#: inc/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:394
+#: inc/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:395
+#: inc/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:397
+#. translators: 1: plugin name.
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:399
+#. translators: 1: plugin name.
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:401
+#. translators: 1: dashboard link.
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1019
+#: inc/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2067
+#. translators: %s: version number
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2477
+#. translators: 1: number of plugins.
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2481
+#. translators: 1: number of plugins.
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2485
+#. translators: 1: number of plugins.
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2688
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2693
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2699
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3583
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3586
+#. translators: 1: plugin name, 2: error message.
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3588
+#. translators: 1: plugin name.
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take "
+"a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3594
+#. translators: 1: plugin name.
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3594
+#: inc/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3594
+#: inc/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3597
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3602
+#. translators: 1: plugin name.
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3605
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:12
+msgid "Testimonials info"
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:18
+msgid "Author of testimonial"
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:24
+msgid "Link to author's website (optional)"
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:30
+msgid "Enter their position in their specific company."
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:84 inc/cmb2-meta-boxes.php:258
+msgid "Background image for header"
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:90
+msgid "Make header transparent "
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:91 inc/cmb2-meta-boxes.php:187
+#: inc/cmb2-meta-boxes.php:228
+msgid "Works only if the \"header background\" image is added"
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:96
+msgid "Header background "
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:97
+msgid "Set image for header, should be 1920px wide."
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:129 inc/theme-options.php:49
+msgid "No Sliders Found"
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:135
+msgid "Slider settings"
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:136
+msgid ""
+"Enable option below to dispay Revolution Slider on this page (the page "
+"template \"Revolution Page\" is now deprecated)."
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:143
+msgid "Display Revolution Slider on this page"
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:151
+msgid "Revolution Slider"
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:179 inc/cmb2-meta-boxes.php:207
+msgid "Layout"
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:180 inc/cmb2-meta-boxes.php:208
+msgid ""
+"You can choose a sidebar from the list below. Sidebars can be created in "
+"the Theme Options and configured in the Appearance -> Widgets."
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:186 inc/cmb2-meta-boxes.php:227
+msgid "Layout "
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:191 inc/cmb2-meta-boxes.php:232
+msgid "Left sidebar"
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:192 inc/cmb2-meta-boxes.php:234
+msgid "Right sidebar"
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:197 inc/cmb2-meta-boxes.php:239
+msgid "Select sidebar"
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:214
+msgid "Titlebar "
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:215
+msgid "Titlebar status"
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:219 inc/cmb2-meta-boxes.php:269
+#: inc/cmb2-meta-boxes.php:281 inc/cmb2-meta-boxes.php:292
+#: inc/cmb2-meta-boxes.php:303 inc/cmb2-meta-boxes.php:314
+#: inc/cmb2-meta-boxes.php:325 inc/customizer/layout.php:34
+#: kirki/controls/php/class-kirki-control-switch.php:52
+#: kirki/field/class-kirki-field-switch.php:39
+msgid "On"
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:220 inc/cmb2-meta-boxes.php:270
+#: inc/cmb2-meta-boxes.php:282 inc/cmb2-meta-boxes.php:293
+#: inc/cmb2-meta-boxes.php:304 inc/cmb2-meta-boxes.php:315
+#: inc/cmb2-meta-boxes.php:326 inc/customizer/layout.php:35
+#: kirki/controls/php/class-kirki-control-switch.php:56
+#: kirki/field/class-kirki-field-switch.php:40
+msgid "Off"
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:233
+msgid "Full Width"
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:264
+msgid "Location/resume filter "
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:265 inc/cmb2-meta-boxes.php:277
+#: inc/cmb2-meta-boxes.php:288 inc/cmb2-meta-boxes.php:299
+#: inc/cmb2-meta-boxes.php:310 inc/cmb2-meta-boxes.php:321
+msgid "set to OFF to hide it from filters"
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:276
+msgid "Job types filter"
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:287
+msgid "Job categories filter"
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:298
+msgid "Salary filter"
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:309
+msgid "Rate filter"
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:320
+msgid "Job tags  filter"
+msgstr ""
+
+#: inc/customizer/blog.php:3
+msgid "Blog Options"
+msgstr ""
+
+#: inc/customizer/blog.php:4
+msgid "Blog related options"
+msgstr ""
+
+#: inc/customizer/blog.php:14
+msgid "Blog layout"
+msgstr ""
+
+#: inc/customizer/blog.php:15
+msgid "Choose the sidebar side for blog"
+msgstr ""
+
+#: inc/customizer/blog.php:28
+msgid "Blog header image"
+msgstr ""
+
+#: inc/customizer/blog.php:29
+msgid "Set image for header, should be 1920px wide"
+msgstr ""
+
+#: inc/customizer/blog.php:38
+msgid "Post meta informations on single post"
+msgstr ""
+
+#: inc/customizer/blog.php:39
+msgid "Set which elements of posts meta data you want to display"
+msgstr ""
+
+#: inc/customizer/blog.php:44 inc/customizer/blog.php:60
+msgid "Author"
+msgstr ""
+
+#: inc/customizer/blog.php:45 inc/customizer/blog.php:61
+msgid "Date"
+msgstr ""
+
+#: inc/customizer/blog.php:46 inc/customizer/blog.php:62
+#: wp-job-manager-alerts/alert-form.php:68
+#: wp-job-manager-alerts/my-alerts.php:18
+msgid "Tags"
+msgstr ""
+
+#: inc/customizer/blog.php:47 inc/customizer/blog.php:63
+#: template-home-resumes.php:93 template-home.php:92
+#: wp-job-manager-alerts/alert-form.php:48
+#: wp-job-manager-alerts/my-alerts.php:15
+msgid "Categories"
+msgstr ""
+
+#: inc/customizer/blog.php:54
+msgid "Post meta informations on blog post"
+msgstr ""
+
+#: inc/customizer/blog.php:55
+msgid ""
+"Set which elements of posts meta data you want to display on blog and "
+"archive pages"
+msgstr ""
+
+#: inc/customizer/blog.php:64
+msgid "Comments"
+msgstr ""
+
+#: inc/customizer/blog.php:71
+msgid "Blog title"
+msgstr ""
+
+#: inc/customizer/blog.php:72
+msgid "Blog"
+msgstr ""
+
+#: inc/customizer/blog.php:80
+msgid "Blog subtitle"
+msgstr ""
+
+#: inc/customizer/blog.php:81
+msgid "Keep up to date with the latest news"
+msgstr ""
+
+#: inc/customizer/blog.php:89
+msgid "Share buttons on single post"
+msgstr ""
+
+#: inc/customizer/blog.php:90
+msgid "Set which share buttons you want to display on single post"
+msgstr ""
+
+#: inc/customizer/blog.php:95 inc/customizer/jobs.php:318
+msgid "Facebook"
+msgstr ""
+
+#: inc/customizer/blog.php:96 inc/customizer/jobs.php:319
+#: job_manager/content-single-job_listing.php:120 single-job_listing.php:201
+#: template-parts/content-single.php:39
+msgid "Twitter"
+msgstr ""
+
+#: inc/customizer/blog.php:97 inc/customizer/jobs.php:320
+msgid "Google Plus"
+msgstr ""
+
+#: inc/customizer/blog.php:98 inc/customizer/jobs.php:321
+msgid "Pinterest"
+msgstr ""
+
+#: inc/customizer/blog.php:99 inc/customizer/jobs.php:322
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/customizer/colors.php:8
+msgid "Select main theme color"
+msgstr ""
+
+#: inc/customizer/contact.php:6
+msgid "Contact Page Map"
+msgstr ""
+
+#: inc/customizer/contact.php:7
+msgid "Contact Page Map related options"
+msgstr ""
+
+#: inc/customizer/contact.php:18
+msgid "Zoom level for map"
+msgstr ""
+
+#: inc/customizer/contact.php:49
+msgid "Markers on map"
+msgstr ""
+
+#: inc/customizer/contact.php:54
+msgid "Marker"
+msgstr ""
+
+#: inc/customizer/contact.php:56 inc/customizer/footer.php:92
+msgid "\"Add new\" button label (optional) "
+msgstr ""
+
+#: inc/customizer/contact.php:62 inc/customizer/footer.php:98
+msgid "Address of marker on map"
+msgstr ""
+
+#: inc/customizer/contact.php:68
+msgid "Latitude (required)"
+msgstr ""
+
+#: inc/customizer/contact.php:74
+msgid "Longitude (required)"
+msgstr ""
+
+#: inc/customizer/contact.php:80
+msgid "HTML content of marker"
+msgstr ""
+
+#: inc/customizer/footer.php:5
+msgid "Footer Options"
+msgstr ""
+
+#: inc/customizer/footer.php:6
+msgid "Footer related options"
+msgstr ""
+
+#: inc/customizer/footer.php:16
+msgid "Footer Logo image"
+msgstr ""
+
+#: inc/customizer/footer.php:17
+msgid "Upload logo for footer top area"
+msgstr ""
+
+#: inc/customizer/footer.php:31
+msgid "Stats counter"
+msgstr ""
+
+#: inc/customizer/footer.php:36
+msgid "Counter"
+msgstr ""
+
+#: inc/customizer/footer.php:38
+msgid "\"Add new\" counter "
+msgstr ""
+
+#: inc/customizer/footer.php:44 inc/customizer/footer.php:90
+msgid "Icon"
+msgstr ""
+
+#: inc/customizer/footer.php:51
+msgid "Number"
+msgstr ""
+
+#: inc/customizer/footer.php:57
+msgid "Label"
+msgstr ""
+
+#: inc/customizer/footer.php:66
+msgid "Copyrights text"
+msgstr ""
+
+#: inc/customizer/footer.php:75
+msgid "Footer widgets layout"
+msgstr ""
+
+#: inc/customizer/footer.php:76
+msgid ""
+"Total width of footer is 12 columns, here you can decide layout based on "
+"columns number for each widget area in footer"
+msgstr ""
+
+#: inc/customizer/footer.php:85
+msgid "Social Icons"
+msgstr ""
+
+#: inc/customizer/footer.php:140
+msgid "URL to profile page"
+msgstr ""
+
+#: inc/customizer/header.php:6
+msgid "Header Options"
+msgstr ""
+
+#: inc/customizer/header.php:7
+msgid "Header related options"
+msgstr ""
+
+#: inc/customizer/header.php:21
+msgid "Enable old header"
+msgstr ""
+
+#: inc/customizer/header.php:22
+msgid "Header before the version 2 was released"
+msgstr ""
+
+#: inc/customizer/header.php:32
+msgid "Header style"
+msgstr ""
+
+#: inc/customizer/header.php:38
+#: kirki/controls/php/class-kirki-control-base.php:134
+#: kirki/controls/views/image.php:36 kirki/field/class-kirki-field-image.php:49
+msgid "Default"
+msgstr ""
+
+#: inc/customizer/header.php:39
+msgid "Alternative"
+msgstr ""
+
+#: inc/customizer/header.php:40 inc/customizer/layout.php:22
+msgid "Full-width"
+msgstr ""
+
+#: inc/customizer/header.php:54
+msgid "Mini shop cart in header"
+msgstr ""
+
+#: inc/customizer/header.php:56
+msgid "Enable/disable mini shop cart in header"
+msgstr ""
+
+#: inc/customizer/header.php:72
+msgid "Sticky header"
+msgstr ""
+
+#: inc/customizer/header.php:74
+msgid "Enable/disable sticky header"
+msgstr ""
+
+#: inc/customizer/header.php:83
+msgid "Make header full-width"
+msgstr ""
+
+#: inc/customizer/header.php:85
+msgid "Enable/disable full width header"
+msgstr ""
+
+#: inc/customizer/header.php:100
+msgid "Alternative header breakpoint"
+msgstr ""
+
+#: inc/customizer/header.php:101
+msgid ""
+"If your screen width will be smaller than this value, the menu will always "
+"switch to alternatvie"
+msgstr ""
+
+#: inc/customizer/header.php:123
+msgid "Login/Sign Up buttons in header"
+msgstr ""
+
+#: inc/customizer/header.php:125
+msgid "Enable/disable Login/Sing Up buttons in header"
+msgstr ""
+
+#: inc/customizer/header.php:133
+msgid "User Page button in header"
+msgstr ""
+
+#: inc/customizer/header.php:135
+msgid "Enable/disable link to User Page in header"
+msgstr ""
+
+#: inc/customizer/header.php:150
+msgid "Set header height"
+msgstr ""
+
+#: inc/customizer/header.php:151
+msgid "Only for screen width higher then 1366px"
+msgstr ""
+
+#: inc/customizer/homesearch.php:5
+msgid "Home Search Options"
+msgstr ""
+
+#: inc/customizer/homesearch.php:6
+msgid "Options for Page with Job/Resume Search"
+msgstr ""
+
+#: inc/customizer/jobs.php:6
+msgid "Jobs Options"
+msgstr ""
+
+#: inc/customizer/jobs.php:7
+msgid "Job related options"
+msgstr ""
+
+#: inc/customizer/jobs.php:15
+msgid "Jobs Lists Options"
+msgstr ""
+
+#: inc/customizer/jobs.php:16
+msgid "Job search list related options"
+msgstr ""
+
+#: inc/customizer/jobs.php:26
+msgid "Jobs Page layout"
+msgstr ""
+
+#: inc/customizer/jobs.php:32 inc/customizer/resumes.php:33
+msgid "Classic"
+msgstr ""
+
+#: inc/customizer/jobs.php:33 inc/customizer/resumes.php:34
+msgid "Split page with map on right"
+msgstr ""
+
+#: inc/customizer/jobs.php:41 inc/customizer/resumes.php:42
+msgid "Show taxonomies description on archives"
+msgstr ""
+
+#: inc/customizer/jobs.php:43 inc/customizer/resumes.php:44
+msgid "Set to ON to show category title and description"
+msgstr ""
+
+#: inc/customizer/jobs.php:52
+msgid "Move keyword search to the sidebar on Jobs list"
+msgstr ""
+
+#: inc/customizer/jobs.php:54
+msgid "Disable to use jobs search input obove the job list"
+msgstr ""
+
+#: inc/customizer/jobs.php:62
+msgid "Disable RSS button"
+msgstr ""
+
+#: inc/customizer/jobs.php:64
+msgid "Set to ON to hide it"
+msgstr ""
+
+#: inc/customizer/jobs.php:73
+msgid "Jobs counter on Browse Jobs page"
+msgstr ""
+
+#: inc/customizer/jobs.php:75
+msgid "Set to OFF to show default titlebar"
+msgstr ""
+
+#: inc/customizer/jobs.php:84
+msgid "Enable old jobs list layout"
+msgstr ""
+
+#: inc/customizer/jobs.php:85 inc/customizer/resumes.php:79
+msgid "Layout before the 1.5v update"
+msgstr ""
+
+#: inc/customizer/jobs.php:95
+msgid "Show job types below title"
+msgstr ""
+
+#: inc/customizer/jobs.php:96
+msgid "Instead of the right side floated types"
+msgstr ""
+
+#: inc/customizer/jobs.php:107
+msgid "Jobs header image"
+msgstr ""
+
+#: inc/customizer/jobs.php:108
+msgid "Used on Job archive page. Set image for header, should be 1920px wide"
+msgstr ""
+
+#: inc/customizer/jobs.php:117
+msgid "Transparent header on Jobs page"
+msgstr ""
+
+#: inc/customizer/jobs.php:119
+msgid "Enabling transparent on browse jobs page"
+msgstr ""
+
+#: inc/customizer/jobs.php:128
+msgid "Hide titlebar on Jobs page"
+msgstr ""
+
+#: inc/customizer/jobs.php:130
+msgid "Set to ON to hide titlebar on browse jobs page"
+msgstr ""
+
+#: inc/customizer/jobs.php:139 inc/customizer/resumes.php:62
+msgid "Call to action button in header"
+msgstr ""
+
+#: inc/customizer/jobs.php:145 inc/customizer/resumes.php:68
+msgid "Post a Job! It's Free!"
+msgstr ""
+
+#: inc/customizer/jobs.php:146 inc/customizer/resumes.php:69
+msgid "Post a Resume! It's Free!"
+msgstr ""
+
+#: inc/customizer/jobs.php:147 inc/customizer/resumes.php:70
+msgid "Show nothing"
+msgstr ""
+
+#: inc/customizer/jobs.php:155
+msgid "Default company logo"
+msgstr ""
+
+#: inc/customizer/jobs.php:156 inc/customizer/jobs.php:166
+#: inc/customizer/jobs.php:196
+msgid "Used on jobs lists"
+msgstr ""
+
+#: inc/customizer/jobs.php:165
+msgid "Hide company logo if not set by user"
+msgstr ""
+
+#: inc/customizer/jobs.php:176
+msgid "Job meta informations on jobs list"
+msgstr ""
+
+#: inc/customizer/jobs.php:177
+msgid "Set which elements you want to display"
+msgstr ""
+
+#: inc/customizer/jobs.php:182
+msgid "Company"
+msgstr ""
+
+#: inc/customizer/jobs.php:183 inc/customizer/jobs.php:300
+#: job_manager/content-single-job_listing.php:188
+#: search-fields/split-location.php:8 sidebar-jobs.php:109 sidebar-jobs.php:118
+#: sidebar-resumes.php:49 sidebar-resumes.php:58 single-job_listing.php:281
+#: wp-job-manager-alerts/alert-form.php:40
+#: wp-job-manager-alerts/my-alerts.php:20
+msgid "Location"
+msgstr ""
+
+#: inc/customizer/jobs.php:184 inc/customizer/jobs.php:303
+#: search-fields/split-jobs-rate.php:3 search-fields/split-resume-rate.php:3
+msgid "Rate"
+msgstr ""
+
+#: inc/customizer/jobs.php:185 inc/customizer/jobs.php:304
+#: search-fields/split-jobs-salary.php:3
+msgid "Salary"
+msgstr ""
+
+#: inc/customizer/jobs.php:186
+msgid "Date created"
+msgstr ""
+
+#: inc/customizer/jobs.php:187
+msgid "Deadline"
+msgstr ""
+
+#: inc/customizer/jobs.php:188 job_manager/content-job_listing.php:79
+#: job_manager/content-job_listing.php:204
+msgid "Expires"
+msgstr ""
+
+#: inc/customizer/jobs.php:195
+msgid "Hide job listing excerpt on the jobs list"
+msgstr ""
+
+#: inc/customizer/jobs.php:206
+msgid "Jobs Archive orderby"
+msgstr ""
+
+#: inc/customizer/jobs.php:225
+msgid "Jobs Archive order"
+msgstr ""
+
+#: inc/customizer/jobs.php:238
+msgid "Jobs Archive number of listings"
+msgstr ""
+
+#: inc/customizer/jobs.php:251
+msgid "Logo position on jobs list"
+msgstr ""
+
+#: inc/customizer/jobs.php:253
+msgid "If you don't like cropped out logos, move them to the right!"
+msgstr ""
+
+#: inc/customizer/jobs.php:257
+#: kirki/controls/php/class-kirki-control-dimensions.php:131
+#: kirki/controls/php/class-kirki-control-typography.php:145
+#: kirki/field/class-kirki-field-spacing.php:34
+msgid "Left"
+msgstr ""
+
+#: inc/customizer/jobs.php:258
+#: kirki/controls/php/class-kirki-control-dimensions.php:132
+#: kirki/controls/php/class-kirki-control-typography.php:157
+#: kirki/field/class-kirki-field-spacing.php:35
+msgid "Right"
+msgstr ""
+
+#: inc/customizer/jobs.php:263
+msgid "Single Job Options"
+msgstr ""
+
+#: inc/customizer/jobs.php:264
+msgid "Job options"
+msgstr ""
+
+#: inc/customizer/jobs.php:276
+msgid "Single Job layout"
+msgstr ""
+
+#: inc/customizer/jobs.php:277
+msgid "Choose the sidebar side for single job"
+msgstr ""
+
+#: inc/customizer/jobs.php:291
+msgid "Job Overview elements to display"
+msgstr ""
+
+#: inc/customizer/jobs.php:292
+msgid "Set which elements you want to display on single job post"
+msgstr ""
+
+#: inc/customizer/jobs.php:297 job_manager/content-single-job_listing.php:149
+#: single-job_listing.php:241
+msgid "Date Posted"
+msgstr ""
+
+#: inc/customizer/jobs.php:298
+msgid "Expiration Date"
+msgstr ""
+
+#: inc/customizer/jobs.php:299
+msgid "Application Deadline"
+msgstr ""
+
+#: inc/customizer/jobs.php:301 job_manager/content-single-job_listing.php:197
+#: single-job_listing.php:290
+msgid "Job Title"
+msgstr ""
+
+#: inc/customizer/jobs.php:302 job_manager/content-single-job_listing.php:209
+#: single-job_listing.php:302
+msgid "Hours"
+msgstr ""
+
+#: inc/customizer/jobs.php:312
+msgid "Share buttons on single job"
+msgstr ""
+
+#: inc/customizer/jobs.php:313
+msgid "Set which share buttons you want to display on single job post"
+msgstr ""
+
+#: inc/customizer/jobs.php:331
+msgid "Enable related Jobs on Single Job"
+msgstr ""
+
+#: inc/customizer/jobs.php:340
+msgid "Enable map on Single Job"
+msgstr ""
+
+#: inc/customizer/jobs.php:349
+msgid "Default Map zoom level"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:4
+msgid "Jobs Home Page Options"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:5
+msgid "Options for Page with Job Search"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:16 inc/customizer/resume_home.php:17
+msgid "Search banner Title"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:17 inc/customizer/resume_home.php:18
+msgid "Text above search form "
+msgstr ""
+
+#: inc/customizer/jobs_home.php:19 template-parts/jobs-split-filters.php:16
+msgid "Find Job"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:26 inc/customizer/resume_home.php:27
+msgid "Search banner Subtitle"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:27
+msgid "Subtitle above search form "
+msgstr ""
+
+#: inc/customizer/jobs_home.php:29 inc/customizer/resume_home.php:28
+msgid "Hire experts or be hired in"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:36 inc/customizer/resume_home.php:37
+msgid "Enable Typed words effect"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:41 inc/customizer/resume_home.php:42
+#: wp-job-manager-alerts/my-alerts.php:114
+msgid "Enable"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:42 inc/customizer/resume_home.php:43
+#: wp-job-manager-alerts/my-alerts.php:114
+msgid "Disable"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:50 inc/customizer/resume_home.php:51
+msgid "Text to display in \"typed\" Banner Subtitle"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:51 inc/customizer/resume_home.php:52
+msgid "Separate with coma"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:53 inc/customizer/resume_home.php:54
+msgid "healthcare, automotive, sales & marketing, accounting & finance"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:70
+msgid "Jobs Search Form elements to display"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:71 inc/customizer/resume_home.php:140
+msgid "Set which elements you want to display on Search Banner"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:76 inc/customizer/resume_home.php:145
+msgid "Keyword input"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:77 inc/customizer/resume_home.php:146
+msgid "Location/Region input"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:78 inc/customizer/resume_home.php:147
+msgid "Category dropdown"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:86 inc/customizer/resume_home.php:70
+msgid "Height of the search banner"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:87 inc/customizer/resume_home.php:71
+msgid "Height is set by adjusting top and bottom padding"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:134
+msgid "Background for search banner on homepage"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:135 inc/customizer/resume_home.php:99
+msgid "Set image for search banner, should be 1920px wide"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:144 inc/customizer/resume_home.php:109
+msgid "Search banner overlay color"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:183 inc/customizer/resume_home.php:156
+msgid "Show \"Advanced Search\" link"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:185 inc/customizer/resume_home.php:158
+msgid "Disable to hide text below search form"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:194
+msgid "Show job counter"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:196
+msgid "Disable to hide jobs counter (works on old home page template)"
+msgstr ""
+
+#: inc/customizer/layout.php:4
+msgid "Layout Options"
+msgstr ""
+
+#: inc/customizer/layout.php:5
+msgid "Layout and header options"
+msgstr ""
+
+#: inc/customizer/layout.php:15
+msgid "Layout style"
+msgstr ""
+
+#: inc/customizer/layout.php:21
+msgid "Boxed"
+msgstr ""
+
+#: inc/customizer/layout.php:28
+msgid "Comments on pages"
+msgstr ""
+
+#: inc/customizer/layout.php:42
+msgid "Sidebar generator"
+msgstr ""
+
+#: inc/customizer/layout.php:50
+msgid "Sidebar name"
+msgstr ""
+
+#: inc/customizer/layout.php:51
+msgid "This will be name of sidebar"
+msgstr ""
+
+#: inc/customizer/layout.php:56
+msgid "Sidebar ID"
+msgstr ""
+
+#: inc/customizer/layout.php:57
+msgid "Replace x with a number"
+msgstr ""
+
+#: inc/customizer/maps.php:3
+msgid "Maps Options"
+msgstr ""
+
+#: inc/customizer/maps.php:4
+msgid "Maps related options"
+msgstr ""
+
+#: inc/customizer/maps.php:15
+msgid "Enable map on Jobs page"
+msgstr ""
+
+#: inc/customizer/maps.php:25
+msgid "Use all jobs map"
+msgstr ""
+
+#: inc/customizer/maps.php:26
+msgid ""
+"If enabled map will show ALL your jobs instead of the jobs currently "
+"filteres/searched for. "
+msgstr ""
+
+#: inc/customizer/maps.php:42
+msgid "Enable map on Resumes page"
+msgstr ""
+
+#: inc/customizer/maps.php:51
+msgid "Use all resumes map"
+msgstr ""
+
+#: inc/customizer/maps.php:52
+msgid ""
+"If enabled map will show ALL your resumes instead of the resumes currently "
+"filteres/searched for. "
+msgstr ""
+
+#: inc/customizer/maps.php:70
+msgid "Map height"
+msgstr ""
+
+#: inc/customizer/maps.php:80
+msgid "Marker color"
+msgstr ""
+
+#: inc/customizer/maps.php:89
+msgid "Use Job Type color for markers color"
+msgstr ""
+
+#: inc/customizer/maps.php:98
+msgid "Group nearby markes in clusters"
+msgstr ""
+
+#: inc/customizer/maps.php:106
+msgid "Autofit all job markers on map"
+msgstr ""
+
+#: inc/customizer/maps.php:114
+msgid "Default zoom level"
+msgstr ""
+
+#: inc/customizer/maps.php:153
+msgid "Map type"
+msgstr ""
+
+#: inc/customizer/maps.php:168
+msgid "Set zoom with scrollwheel"
+msgstr ""
+
+#: inc/customizer/maps.php:169
+msgid "Disabled by default as it might create problems witch scrolling page"
+msgstr ""
+
+#: inc/customizer/resume_home.php:6
+msgid "Resume Home Page Options"
+msgstr ""
+
+#: inc/customizer/resume_home.php:7
+msgid "Options for Page with Resume Search"
+msgstr ""
+
+#: inc/customizer/resume_home.php:20 inc/customizer/resume_home.php:30
+#: template-parts/resume-split-filters.php:5
+msgid "Find Candidate"
+msgstr ""
+
+#: inc/customizer/resume_home.php:98
+msgid "Background for search banner on Resumes homepage"
+msgstr ""
+
+#: inc/customizer/resume_home.php:127
+msgid "Transparent header"
+msgstr ""
+
+#: inc/customizer/resume_home.php:129
+msgid "Enabling transparent header works only on 'Page with Resumes Search'"
+msgstr ""
+
+#: inc/customizer/resume_home.php:139
+msgid "Resume Search Form elements to display"
+msgstr ""
+
+#: inc/customizer/resume_home.php:167
+msgid "Show resumes counter"
+msgstr ""
+
+#: inc/customizer/resume_home.php:169
+msgid "Disable to hide resumes counter"
+msgstr ""
+
+#: inc/customizer/resume_home.php:180
+msgid "Choose \"Browse Resume Categories Page\""
+msgstr ""
+
+#: inc/customizer/resume_home.php:182
+msgid ""
+"This page needs to use template named \"Job/resumes Categories Page "
+"Template\""
+msgstr ""
+
+#: inc/customizer/resumes.php:6 inc/customizer/resumes.php:14
+msgid "Resumes Options"
+msgstr ""
+
+#: inc/customizer/resumes.php:7
+msgid "Resumes related options"
+msgstr ""
+
+#: inc/customizer/resumes.php:15
+msgid "Resume related options"
+msgstr ""
+
+#: inc/customizer/resumes.php:27
+msgid "Resumes Page layout"
+msgstr ""
+
+#: inc/customizer/resumes.php:52
+msgid "Resumes header image"
+msgstr ""
+
+#: inc/customizer/resumes.php:53
+msgid "Used on Resumes archive page. Set image for header, should be 1920px wide"
+msgstr ""
+
+#: inc/customizer/resumes.php:78
+msgid "Enable old resume list layout"
+msgstr ""
+
+#: inc/customizer/resumes.php:88
+msgid "Rounded resumes photos"
+msgstr ""
+
+#: inc/customizer/resumes.php:89
+msgid "Turn it off for rectangular photos"
+msgstr ""
+
+#: inc/customizer/resumes.php:98
+msgid "Resume Archive order"
+msgstr ""
+
+#: inc/customizer/resumes.php:111
+msgid "Resume Archive orderby"
+msgstr ""
+
+#: inc/customizer/resumes.php:132
+msgid "Resume Archive number of listings"
+msgstr ""
+
+#: inc/customizer/resumes.php:145
+msgid "Square list bullets"
+msgstr ""
+
+#: inc/customizer/shop.php:3
+msgid "WorkScout Woo Settings"
+msgstr ""
+
+#: inc/customizer/shop.php:4
+msgid "Theme related settings"
+msgstr ""
+
+#: inc/customizer/shop.php:13
+msgid "Shop layout"
+msgstr ""
+
+#: inc/customizer/shop.php:14
+msgid "Choose the sidebar side for shop"
+msgstr ""
+
+#: inc/customizer/shop.php:29
+msgid "Show/hide results count and order select on shop page"
+msgstr ""
+
+#: inc/customizer/shop.php:31
+msgid ""
+"With this setting set to On, results count and order select on shop page "
+"will be displayed"
+msgstr ""
+
+#: inc/customizer/shop.php:39
+msgid "MyAccount navigation control "
+msgstr ""
+
+#: inc/customizer/shop.php:41
+msgid "Check the checkbox to hide that element in the WooCommerce My Account menu"
+msgstr ""
+
+#: inc/customizer/shop.php:46 template-dashboard.php:233
+#: template-dashboard.php:451
+msgid "Dashboard"
+msgstr ""
+
+#: inc/customizer/shop.php:47
+msgid "Orders"
+msgstr ""
+
+#: inc/customizer/shop.php:48
+msgid "Downloads"
+msgstr ""
+
+#: inc/customizer/shop.php:49
+msgid "Addresses"
+msgstr ""
+
+#: inc/customizer/shop.php:50
+msgid "Account details"
+msgstr ""
+
+#: inc/customizer/shop.php:51 template-dashboard.php:382
+msgid "Logout"
+msgstr ""
+
+#: inc/customizer/title_tagline.php:7
+msgid "Logo image"
+msgstr ""
+
+#: inc/customizer/title_tagline.php:8
+msgid "Upload logo for your website"
+msgstr ""
+
+#: inc/customizer/title_tagline.php:17
+msgid "Retina Logo image"
+msgstr ""
+
+#: inc/customizer/title_tagline.php:18
+msgid "Upload Retina logo for your website"
+msgstr ""
+
+#: inc/customizer/title_tagline.php:27
+msgid "Home Page Logo for transparent header"
+msgstr ""
+
+#: inc/customizer/title_tagline.php:28 inc/customizer/title_tagline.php:37
+msgid ""
+"If you need to use different logo in case yours not readable on transparent "
+"header"
+msgstr ""
+
+#: inc/customizer/title_tagline.php:36
+msgid "Home Page Retina Logo for transparent header"
+msgstr ""
+
+#: inc/customizer/title_tagline.php:46
+msgid "Logo image size"
+msgstr ""
+
+#: inc/customizer/title_tagline.php:47
+msgid "Set image height for retina version in case the logo is displayed too big"
+msgstr ""
+
+#: inc/customizer/typography.php:5
+msgid "Typography"
+msgstr ""
+
+#: inc/customizer/typography.php:6
+msgid "Fonts options"
+msgstr ""
+
+#: inc/customizer/typography.php:16
+msgid "Body font"
+msgstr ""
+
+#: inc/customizer/typography.php:40
+msgid "Text logo font"
+msgstr ""
+
+#: inc/customizer/typography.php:64
+msgid "h1..h6 font"
+msgstr ""
+
+#: inc/mini_cart.php:13
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/mini_cart.php:13
+msgid "in the shopping cart"
+msgstr ""
+
+#: inc/mini_cart.php:43
+msgid "No products in the cart."
+msgstr ""
+
+#: inc/mini_cart.php:47
+msgid "View Cart &rarr;"
+msgstr ""
+
+#: inc/mini_cart.php:48
+msgid "Checkout &rarr;"
+msgstr ""
+
+#: inc/template-tags.php:21 inc/template-tags.php:55
+msgid "By"
+msgstr ""
+
+#: inc/template-tags.php:47 inc/template-tags.php:82
+msgid "With 0 comments"
+msgstr ""
+
+#: inc/template-tags.php:47 inc/template-tags.php:82
+msgid "With 1 comment"
+msgstr ""
+
+#: inc/template-tags.php:47 inc/template-tags.php:82
+msgid "With % comments"
+msgstr ""
+
+#: inc/template-tags.php:47 inc/template-tags.php:82
+msgid "Comments are off"
+msgstr ""
+
+#: inc/template-tags.php:97 inc/template-tags.php:103
+#. translators: used between list items, there is a space after the comma
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:99
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:105
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:111
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:111
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:111
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:118
+#. translators: %s: Name of current post
+msgid "Edit %s"
+msgstr ""
+
+#: inc/template-tags.php:185
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:189
+msgid "Older posts"
+msgstr ""
+
+#: inc/template-tags.php:193
+msgid "Newer posts"
+msgstr ""
+
+#: inc/template-tags.php:219
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:219
+msgid "(Edit)"
+msgstr ""
+
+#: inc/template-tags.php:229
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/template-tags.php:230
+msgid "<i class=\"fa fa-reply\"></i> Reply"
+msgstr ""
+
+#: inc/template-tags.php:275
+msgid "Author: %s"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Contact Page"
+msgstr ""
+
+#: inc/theme-options.php:66
+msgid "General"
+msgstr ""
+
+#: inc/theme-options.php:72
+msgid "Sidebars"
+msgstr ""
+
+#: inc/widgets.php:106
+msgid "Recent posts"
+msgstr ""
+
+#: inc/widgets.php:109
+msgid "Recent posts Title"
+msgstr ""
+
+#: inc/widgets.php:114
+msgid "Popular posts"
+msgstr ""
+
+#: inc/widgets.php:117
+msgid "Popular posts Title"
+msgstr ""
+
+#: inc/widgets.php:122
+msgid "Latest comments"
+msgstr ""
+
+#: inc/widgets.php:125
+msgid "Latest comments Title"
+msgstr ""
+
+#: inc/woocommerce.php:32 template-jobpackages.php:122
+#: woocommerce/content-product.php:83
+#: woocommerce/single-product/tabs/description.php:38
+msgid "Unlimited number of jobs"
+msgstr ""
+
+#: inc/woocommerce.php:36 inc/woocommerce.php:58 template-jobpackages.php:126
+#: template-resumepackages.php:128 woocommerce/content-product.php:87
+#: woocommerce/content-product.php:111
+#: woocommerce/single-product/tabs/description.php:42
+#: woocommerce/single-product/tabs/description.php:66
+msgid "This plan includes "
+msgstr ""
+
+#: inc/woocommerce.php:36 template-jobpackages.php:126
+#: woocommerce/content-product.php:87
+#: woocommerce/single-product/tabs/description.php:42
+msgid "%d job"
+msgid_plural "%s jobs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/woocommerce.php:42 template-jobpackages.php:133
+#: woocommerce/content-product.php:94
+#: woocommerce/single-product/tabs/description.php:49
+msgid "Jobs are posted "
+msgstr ""
+
+#: inc/woocommerce.php:42 inc/woocommerce.php:65 template-jobpackages.php:133
+#: template-resumepackages.php:136 woocommerce/content-product.php:94
+#: woocommerce/content-product.php:118
+#: woocommerce/single-product/tabs/description.php:49
+#: woocommerce/single-product/tabs/description.php:73
+msgid "for %s day"
+msgid_plural "for %s days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/woocommerce.php:54 woocommerce/content-product.php:107
+#: woocommerce/single-product/tabs/description.php:62
+msgid "Unlimited number of Resumes"
+msgstr ""
+
+#: inc/woocommerce.php:58 template-resumepackages.php:128
+#: woocommerce/content-product.php:111
+#: woocommerce/single-product/tabs/description.php:66
+msgid "%d resume"
+msgid_plural "%s resumes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/woocommerce.php:65 template-resumepackages.php:136
+#: woocommerce/content-product.php:118
+#: woocommerce/single-product/tabs/description.php:73
+msgid "Resumes are posted "
+msgstr ""
+
+#: inc/wp-job-manager-colors-types.php:123
+#: inc/wp-job-manager-colors-types.php:138
+#: inc/wp-job-manager-colors-types.php:151
+#: kirki/controls/php/class-kirki-control-typography.php:221
+msgid "Color"
+msgstr ""
+
+#: inc/wp-job-manager-maps.php:83 inc/wp-job-manager-maps.php:132
+#: job_manager/content-job_listing.php:152 single-resume.php:49
+#: template-parts/jobs-related.php:98
+#: wp-job-manager-resumes/content-resume.php:44
+#: wp-job-manager-resumes/content-single-resume.php:26
+msgid "/ hour"
+msgstr ""
+
+#: inc/wp-job-manager.php:61
+msgid "I want to register as"
+msgstr ""
+
+#: inc/wp-job-manager.php:64 inc/wp-job-manager.php:68
+#: template-dashboard.php:302
+msgid "Candidate"
+msgstr ""
+
+#: inc/wp-job-manager.php:66 template-dashboard.php:269
+msgid "Employer"
+msgstr ""
+
+#: inc/wp-job-manager.php:81
+msgid "<strong>ERROR</strong>: You must include a role."
+msgstr ""
+
+#: job_manager/account-signin.php:4 wp-job-manager-resumes/account-signin.php:6
+msgid "Welcome to"
+msgstr ""
+
+#: job_manager/account-signin.php:7
+msgid "You are currently signed in as <strong>%s</strong>."
+msgstr ""
+
+#: job_manager/account-signin.php:10
+#: wp-job-manager-resumes/account-signin.php:13
+msgid "Sign out"
+msgstr ""
+
+#: job_manager/account-signin.php:21
+#: wp-job-manager-resumes/account-signin.php:26
+msgid "Have an account?"
+msgstr ""
+
+#: job_manager/account-signin.php:25
+msgid ""
+"If you don&rsquo;t have an account you can %screate one below by entering "
+"your email address/username. Your account details will be confirmed via "
+"email."
+msgstr ""
+
+#: job_manager/account-signin.php:25
+msgid "optionally"
+msgstr ""
+
+#: job_manager/account-signin.php:29
+msgid "You must sign in to create a new listing."
+msgstr ""
+
+#: job_manager/account-signin.php:33 job_manager/job-dashboard-login.php:4
+#: wp-job-manager-applications/application-form-login.php:2
+#: wp-job-manager-resumes/account-signin.php:37
+#: wp-job-manager-resumes/candidate-dashboard-login.php:4
+msgid "Sign in"
+msgstr ""
+
+#: job_manager/account-signin.php:42 job_manager/job-submit.php:33
+#: job_manager/job-submit.php:55
+#: wp-job-manager-applications/application-form.php:13
+#: wp-job-manager-apply-with-facebook/apply-with-facebook-form.php:22
+#: wp-job-manager-resumes/account-signin.php:45
+#: wp-job-manager-resumes/form-fields/repeated-field.php:8
+#: wp-job-manager-resumes/form-fields/repeated-field.php:32
+#: wp-job-manager-resumes/resume-submit.php:50
+msgid "(optional)"
+msgstr ""
+
+#: job_manager/content-job_listing.php:60
+msgid "new"
+msgstr ""
+
+#: job_manager/content-job_listing.php:72
+#: job_manager/content-job_listing.php:197
+#: job_manager/content-single-job_listing.php:181 single-job_listing.php:273
+msgid "Closed"
+msgstr ""
+
+#: job_manager/content-job_listing.php:72
+#: job_manager/content-job_listing.php:197
+#: job_manager/content-single-job_listing.php:181 single-job_listing.php:273
+msgid "Closes"
+msgstr ""
+
+#: job_manager/content-job_listing.php:112
+#: job_manager/content-single-job_listing.php:46 single-job_listing.php:58
+msgid "NEW"
+msgstr ""
+
+#: job_manager/content-single-job_listing.php:83 single-company.php:29
+#: single-job_listing.php:138
+msgid "Website"
+msgstr ""
+
+#: job_manager/content-single-job_listing.php:139
+msgid "Overview"
+msgstr ""
+
+#: job_manager/content-single-job_listing.php:164 single-job_listing.php:256
+msgid "Expiration date"
+msgstr ""
+
+#: job_manager/content-single-job_listing.php:210 single-job_listing.php:303
+msgid "h / week"
+msgstr ""
+
+#: job_manager/content-single-job_listing.php:226 single-job_listing.php:319
+msgid "Rate:"
+msgstr ""
+
+#: job_manager/content-single-job_listing.php:246 single-job_listing.php:339
+msgid " / hour"
+msgstr ""
+
+#: job_manager/content-single-job_listing.php:261 single-job_listing.php:354
+msgid "Salary:"
+msgstr ""
+
+#: job_manager/content-single-job_listing.php:307 single-job_listing.php:411
+msgid "Job Location"
+msgstr ""
+
+#: job_manager/form-fields/file-field.php:25
+#: job_manager/form-fields/file-field.php:43
+msgid "Browse"
+msgstr ""
+
+#: job_manager/form-fields/file-field.php:53
+msgid "Maximum file size: %s."
+msgstr ""
+
+#: job_manager/form-fields/text-field.php:21 search-fields/split-location.php:9
+#: sidebar-jobs.php:119 sidebar-resumes.php:59 template-home-resumes.php:81
+#: template-home.php:80
+msgid "Find My Location"
+msgstr ""
+
+#: job_manager/form-fields/text-field.php:22
+#: search-fields/split-location.php:10 sidebar-jobs.php:120
+#: sidebar-resumes.php:60 template-home-resumes.php:82 template-home.php:81
+msgid "type and hit enter"
+msgstr ""
+
+#: job_manager/job-application.php:8 single-job_listing.php:391
+msgid "Apply for job"
+msgstr ""
+
+#: job_manager/job-application.php:12 template-parts/jobs-related.php:133
+msgid "Apply For This Job"
+msgstr ""
+
+#: job_manager/job-dashboard-login.php:3
+msgid "You need to be signed in to manage your listings."
+msgstr ""
+
+#: job_manager/job-dashboard.php:2
+msgid "Your listings are shown in the table below."
+msgstr ""
+
+#: job_manager/job-dashboard.php:22
+msgid "You do not have any active listings."
+msgstr ""
+
+#: job_manager/job-dashboard.php:46
+msgid "Show"
+msgstr ""
+
+#: job_manager/job-dashboard.php:65
+msgid "Mark not filled"
+msgstr ""
+
+#: job_manager/job-dashboard.php:67
+msgid "Mark filled"
+msgstr ""
+
+#: job_manager/job-dashboard.php:70
+msgid "Duplicate"
+msgstr ""
+
+#: job_manager/job-dashboard.php:74
+#: wp-job-manager-resumes/candidate-dashboard.php:80
+msgid "Relist"
+msgstr ""
+
+#: job_manager/job-dashboard.php:84
+msgid "Continue Submission"
+msgstr ""
+
+#: job_manager/job-dashboard.php:89 wp-job-manager-alerts/my-alerts.php:118
+#: wp-job-manager-bookmarks/my-bookmarks.php:33
+#: wp-job-manager-resumes/candidate-dashboard.php:85
+msgid "Delete"
+msgstr ""
+
+#: job_manager/job-dashboard.php:114
+msgid "Add Job"
+msgstr ""
+
+#: job_manager/job-pagination.php:23
+msgid "Previous"
+msgstr ""
+
+#: job_manager/job-pagination.php:41
+msgid "Next"
+msgstr ""
+
+#: job_manager/job-preview.php:29
+msgid "Submit Listing"
+msgstr ""
+
+#: job_manager/job-preview.php:30
+msgid "Edit listing"
+msgstr ""
+
+#: job_manager/job-preview.php:31
+msgid "Preview"
+msgstr ""
+
+#: job_manager/job-submit.php:24
+msgid "Job Details"
+msgstr ""
+
+#: job_manager/job-submit.php:49
+msgid "Company Details"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:48
+msgid "Background Color"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:54
+msgid "Background Image"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:59
+#: kirki/controls/php/class-kirki-control-base.php:132
+#: kirki/controls/php/class-kirki-control-repeater.php:408
+#: kirki/controls/php/class-kirki-control-repeater.php:413
+msgid "No File Selected"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:62
+#: kirki/controls/php/class-kirki-control-base.php:133
+#: kirki/controls/php/class-kirki-control-repeater.php:386
+#: kirki/controls/php/class-kirki-control-repeater.php:418
+#: kirki/controls/php/class-kirki-control-repeater.php:443
+#: kirki/controls/views/image.php:37 kirki/field/class-kirki-field-image.php:50
+msgid "Remove"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:63
+#: kirki/controls/php/class-kirki-control-base.php:135
+msgid "Select File"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:70
+msgid "Background Repeat"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:72
+msgid "No Repeat"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:73
+msgid "Repeat All"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:74
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:75
+msgid "Repeat Vertically"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:81
+msgid "Background Position"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:83
+#: kirki/controls/php/class-kirki-control-dimensions.php:114
+msgid "Left Top"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:84
+#: kirki/controls/php/class-kirki-control-dimensions.php:115
+msgid "Left Center"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:85
+#: kirki/controls/php/class-kirki-control-dimensions.php:116
+msgid "Left Bottom"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:86
+#: kirki/controls/php/class-kirki-control-dimensions.php:117
+msgid "Right Top"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:87
+#: kirki/controls/php/class-kirki-control-dimensions.php:118
+msgid "Right Center"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:88
+#: kirki/controls/php/class-kirki-control-dimensions.php:119
+msgid "Right Bottom"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:89
+#: kirki/controls/php/class-kirki-control-dimensions.php:120
+msgid "Center Top"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:90
+#: kirki/controls/php/class-kirki-control-dimensions.php:121
+msgid "Center Center"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:91
+#: kirki/controls/php/class-kirki-control-dimensions.php:122
+msgid "Center Bottom"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:97
+msgid "Background Size"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:100
+msgid "Cover"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:103
+msgid "Contain"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:106
+msgid "Auto"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:113
+msgid "Background Attachment"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:116
+msgid "Scroll"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:119
+msgid "Fixed"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-base.php:136
+msgid "Standard Fonts"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-base.php:137
+msgid "Google Fonts"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-base.php:138
+msgid "CSS Defaults"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-base.php:139
+msgid "Default Browser Font-Family"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-dimension.php:41
+#: kirki/controls/php/class-kirki-control-dimensions.php:138
+msgid "Invalid Value"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-dimensions.php:123
+#: kirki/controls/php/class-kirki-control-typography.php:102
+msgid "Font Size"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-dimensions.php:124
+msgid "Font Weight"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-dimensions.php:125
+#: kirki/controls/php/class-kirki-control-typography.php:110
+msgid "Line Height"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-dimensions.php:126
+msgid "Font Style"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-dimensions.php:127
+#: kirki/controls/php/class-kirki-control-typography.php:118
+msgid "Letter Spacing"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-dimensions.php:128
+#: kirki/controls/php/class-kirki-control-typography.php:126
+msgid "Word Spacing"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-dimensions.php:129
+#: kirki/field/class-kirki-field-spacing.php:32
+msgid "Top"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-dimensions.php:130
+#: kirki/field/class-kirki-field-spacing.php:33
+msgid "Bottom"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-dimensions.php:133
+#: kirki/controls/php/class-kirki-control-typography.php:151
+msgid "Center"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-dimensions.php:134
+msgid "Size"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-dimensions.php:135
+msgid "Spacing"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-dimensions.php:136
+msgid "Width"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-dimensions.php:137
+msgid "Height"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-repeater.php:77
+msgid "row"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-repeater.php:86
+#. translators: %s represents the label of the row.
+msgid "Add new %s"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-repeater.php:121
+msgid "Select a Page"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-repeater.php:227
+#. translators: %s represents the number of rows we're limiting the repeater to
+#. allow.
+msgid "Limit: %s rows"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-repeater.php:376
+#: kirki/controls/php/class-kirki-control-repeater.php:381
+msgid "No Image Selected"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-repeater.php:387
+#: kirki/controls/php/class-kirki-control-repeater.php:391
+msgid "Add Image"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-repeater.php:387
+#: kirki/controls/php/class-kirki-control-repeater.php:389
+msgid "Change Image"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-repeater.php:419
+#: kirki/controls/php/class-kirki-control-repeater.php:423
+msgid "Add File"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-repeater.php:419
+#: kirki/controls/php/class-kirki-control-repeater.php:421
+msgid "Change File"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-slider.php:67
+msgid "Reset"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-typography.php:82
+msgid "Font Family"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-typography.php:83
+#: kirki/controls/php/class-kirki-control-typography.php:88
+msgid "Select Font Family"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-typography.php:87
+msgid "Backup Font"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-typography.php:93
+msgid "Variant"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-typography.php:134
+msgid "Text Align"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-typography.php:139
+#: kirki/controls/php/class-kirki-control-typography.php:181
+#: kirki/controls/php/class-kirki-control-typography.php:197
+msgid "Inherit"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-typography.php:163
+msgid "Justify"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-typography.php:173
+msgid "Text Transform"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-typography.php:176
+#: kirki/controls/php/class-kirki-control-typography.php:192
+msgid "None"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-typography.php:177
+msgid "Capitalize"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-typography.php:178
+msgid "Uppercase"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-typography.php:179
+msgid "Lowercase"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-typography.php:180
+#: kirki/controls/php/class-kirki-control-typography.php:196
+msgid "Initial"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-typography.php:189
+msgid "Text Decoration"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-typography.php:193
+msgid "Underline"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-typography.php:194
+msgid "Overline"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-typography.php:195
+msgid "Line-Through"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-typography.php:205
+msgid "Margin Top"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-typography.php:213
+msgid "Margin Bottom"
+msgstr ""
+
+#: kirki/controls/views/image.php:34 kirki/controls/views/image.php:39
+#: kirki/field/class-kirki-field-image.php:47
+#: kirki/field/class-kirki-field-image.php:52
+msgid "Select image"
+msgstr ""
+
+#: kirki/controls/views/image.php:35 kirki/field/class-kirki-field-image.php:48
+msgid "Change image"
+msgstr ""
+
+#: kirki/controls/views/image.php:38 kirki/field/class-kirki-field-image.php:51
+msgid "No image selected"
+msgstr ""
+
+#: kirki/controls/views/image.php:40 kirki/field/class-kirki-field-image.php:53
+msgid "Choose image"
+msgstr ""
+
+#: kirki/core/class-kirki-field.php:248
+#. translators: %s represents the field ID where the error occurs.
+msgid "Typo found in field %s - setting instead of settings."
+msgstr ""
+
+#: kirki/core/class-kirki-field.php:257 kirki/core/class-kirki-field.php:267
+#. translators: %1$s represents the field ID where the error occurs. %2$s is
+#. the URL in the documentation site.
+msgid ""
+"Config not defined for field %1$s - See %2$s for details on how to properly "
+"add fields."
+msgstr ""
+
+#: kirki/core/class-kirki-field.php:375
+#. translators: %1$s represents the field ID where the error occurs.
+msgid "\"partial_refresh\" invalid entry in field %s"
+msgstr ""
+
+#: kirki/core/class-kirki-field.php:498 kirki/core/class-kirki-field.php:509
+#. translators: The field ID where the error occurs.
+msgid ""
+"\"output\" invalid format in field %s. The \"output\" argument should be "
+"defined as an array of arrays."
+msgstr ""
+
+#: kirki/core/class-kirki-init.php:289
+msgid ""
+"We detected you're using Kirki_Init::get_variables(). Please use "
+"Kirki_Util::get_variables() instead."
+msgstr ""
+
+#: kirki/core/class-kirki-init.php:365
+msgid ""
+"Your theme uses a Font Awesome field for icons. To avoid issues with "
+"missing icons on your frontend we recommend you install the official Font "
+"Awesome plugin."
+msgstr ""
+
+#: kirki/core/class-kirki-init.php:368
+msgid "Install Plugin"
+msgstr ""
+
+#: kirki/core/class-kirki-init.php:369
+msgid "Don't show this again"
+msgstr ""
+
+#: kirki/core/class-kirki.php:237
+msgid ""
+"Kirki fields should not be added on customize_register. Please add them "
+"directly, or on init."
+msgstr ""
+
+#: kirki/deprecated/functions.php:19
+msgid "%1$s or %2$s"
+msgstr ""
+
+#: kirki/field/class-kirki-field-color.php:52
+msgid ""
+"Do not use \"alpha\" as an argument in color controls. Use "
+"\"choices[alpha]\" instead."
+msgstr ""
+
+#: kirki/field/class-kirki-field-radio.php:37
+#. translators: %1$s represents the field ID where the error occurs. %2%s is
+#. buttonset/image.
+msgid ""
+"Error in field %1$s. The \"mode\" argument has been deprecated since Kirki "
+"v0.8. Use the \"radio-%2$s\" type instead."
+msgstr ""
+
+#: kirki/modules/custom-sections/sections/class-kirki-sections-nested-section.php:61
+msgid "Customizing"
+msgstr ""
+
+#: kirki/modules/custom-sections/sections/class-kirki-sections-nested-section.php:64
+#. translators: The title.
+msgid "Customizing &#9656; %s"
+msgstr ""
+
+#: kirki/modules/telemetry/class-kirki-modules-telemetry.php:146
+msgid "Help us improve Kirki."
+msgstr ""
+
+#: kirki/modules/telemetry/class-kirki-modules-telemetry.php:147
+msgid ""
+"Help us begin a dialogue with theme developers, collaborate and improve "
+"both the theme you are using and the Kirki framework by agreeing to send "
+"anonymous data. <strong>The data is completely anonymous and we will never "
+"collect any identifyable information about you or your website.</strong>"
+msgstr ""
+
+#: kirki/modules/telemetry/class-kirki-modules-telemetry.php:151
+msgid "Data that will be sent"
+msgstr ""
+
+#: kirki/modules/telemetry/class-kirki-modules-telemetry.php:156
+msgid "PHP Version"
+msgstr ""
+
+#: kirki/modules/telemetry/class-kirki-modules-telemetry.php:160
+msgid "Theme Name"
+msgstr ""
+
+#: kirki/modules/telemetry/class-kirki-modules-telemetry.php:164
+msgid "Theme Author"
+msgstr ""
+
+#: kirki/modules/telemetry/class-kirki-modules-telemetry.php:168
+msgid "Theme URI"
+msgstr ""
+
+#: kirki/modules/telemetry/class-kirki-modules-telemetry.php:172
+msgid "Field Types Used"
+msgstr ""
+
+#: kirki/modules/telemetry/class-kirki-modules-telemetry.php:182
+#. translators: %1$s: URL to the server plugin code. %2$s: URL to the stats
+#. page.
+msgid ""
+"We believe in complete transparency. You can see the code used on our "
+"server <a href=\"%1$s\" rel=\"nofollow\">here</a>, and the results of the "
+"statistics we're gathering on <a href=\"%2$s\" rel=\"nofollow\">this "
+"page</a>."
+msgstr ""
+
+#: kirki/modules/telemetry/class-kirki-modules-telemetry.php:193
+msgid "I agree"
+msgstr ""
+
+#: kirki/modules/telemetry/class-kirki-modules-telemetry.php:194
+msgid "No thanks"
+msgstr ""
+
+#: kirki/modules/telemetry/class-kirki-modules-telemetry.php:195
+msgid "Show me the data"
+msgstr ""
+
+#: kirki/modules/telemetry/class-kirki-modules-telemetry.php:196
+msgid "Collapse data"
+msgstr ""
+
+#: kirki/modules/webfonts/class-kirki-fonts.php:198
+#: kirki/modules/webfonts/class-kirki-fonts.php:199
+msgid "Ultra-Light 100"
+msgstr ""
+
+#: kirki/modules/webfonts/class-kirki-fonts.php:200
+msgid "Ultra-Light 100 Italic"
+msgstr ""
+
+#: kirki/modules/webfonts/class-kirki-fonts.php:201
+msgid "Light 200"
+msgstr ""
+
+#: kirki/modules/webfonts/class-kirki-fonts.php:202
+msgid "Light 200 Italic"
+msgstr ""
+
+#: kirki/modules/webfonts/class-kirki-fonts.php:203
+msgid "Book 300"
+msgstr ""
+
+#: kirki/modules/webfonts/class-kirki-fonts.php:204
+msgid "Book 300 Italic"
+msgstr ""
+
+#: kirki/modules/webfonts/class-kirki-fonts.php:205
+#: kirki/modules/webfonts/class-kirki-fonts.php:206
+msgid "Normal 400"
+msgstr ""
+
+#: kirki/modules/webfonts/class-kirki-fonts.php:207
+msgid "Normal 400 Italic"
+msgstr ""
+
+#: kirki/modules/webfonts/class-kirki-fonts.php:208
+msgid "Medium 500"
+msgstr ""
+
+#: kirki/modules/webfonts/class-kirki-fonts.php:209
+msgid "Medium 500 Italic"
+msgstr ""
+
+#: kirki/modules/webfonts/class-kirki-fonts.php:210
+#: kirki/modules/webfonts/class-kirki-fonts.php:211
+msgid "Semi-Bold 600"
+msgstr ""
+
+#: kirki/modules/webfonts/class-kirki-fonts.php:212
+msgid "Semi-Bold 600 Italic"
+msgstr ""
+
+#: kirki/modules/webfonts/class-kirki-fonts.php:213
+msgid "Bold 700"
+msgstr ""
+
+#: kirki/modules/webfonts/class-kirki-fonts.php:214
+msgid "Bold 700 Italic"
+msgstr ""
+
+#: kirki/modules/webfonts/class-kirki-fonts.php:215
+#: kirki/modules/webfonts/class-kirki-fonts.php:216
+msgid "Extra-Bold 800"
+msgstr ""
+
+#: kirki/modules/webfonts/class-kirki-fonts.php:217
+msgid "Extra-Bold 800 Italic"
+msgstr ""
+
+#: kirki/modules/webfonts/class-kirki-fonts.php:218
+#: kirki/modules/webfonts/class-kirki-fonts.php:219
+msgid "Ultra-Bold 900"
+msgstr ""
+
+#: kirki/modules/webfonts/class-kirki-fonts.php:220
+msgid "Ultra-Bold 900 Italic"
+msgstr ""
+
+#: kirki/upgrade-notifications.php:30
+msgid "Important Upgrade Notice:"
+msgstr ""
+
+#: search-fields/split-jobs-job_listing_category.php:33
+#: search-fields/split-resume-resume_category.php:33 sidebar-jobs.php:193
+#: wp-job-manager-alerts/alert-form.php:60
+msgid "Any category"
+msgstr ""
+
+#: search-fields/split-jobs-job_types.php:5
+#: wp-job-manager-alerts/alert-form.php:87
+msgid "Job Type"
+msgstr ""
+
+#: search-fields/split-jobs-rate.php:7 search-fields/split-resume-rate.php:7
+msgid "Select min and max rate range"
+msgstr ""
+
+#: search-fields/split-jobs-rate.php:19 search-fields/split-resume-rate.php:19
+msgid "Enable Rate Filter"
+msgstr ""
+
+#: search-fields/split-jobs-salary.php:7
+msgid "Select min and max salary range"
+msgstr ""
+
+#: search-fields/split-jobs-salary.php:20
+msgid "Enable Salary Filter"
+msgstr ""
+
+#: search-fields/split-radius.php:2
+msgid "Radius"
+msgstr ""
+
+#: search-fields/split-radius.php:6 sidebar-jobs.php:135 sidebar-resumes.php:74
+msgid "Radius around selected destination"
+msgstr ""
+
+#: search-fields/split-radius.php:18 sidebar-jobs.php:130
+#: sidebar-resumes.php:69
+msgid "Search by Radius"
+msgstr ""
+
+#: search-fields/split-resume-resume_skill.php:14 sidebar-resumes.php:99
+msgid "Choose a skill"
+msgstr ""
+
+#: search.php:20
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:12
+msgid "To search type and hit enter"
+msgstr ""
+
+#: sidebar-jobs.php:32 wp-job-manager-alerts/my-alerts.php:13
+msgid "Keywords"
+msgstr ""
+
+#: sidebar-jobs.php:64 sidebar-resumes.php:18
+msgid "Region"
+msgstr ""
+
+#: sidebar-jobs.php:155
+msgid "Job type"
+msgstr ""
+
+#: sidebar-jobs.php:172
+msgid "Category"
+msgstr ""
+
+#: sidebar-jobs.php:212
+msgid "Filter by Salary"
+msgstr ""
+
+#: sidebar-jobs.php:231 sidebar-resumes.php:129
+msgid "Filter by Rate"
+msgstr ""
+
+#: sidebar-jobs.php:246
+msgid "Filter by tag:"
+msgstr ""
+
+#: sidebar-resumes.php:32 template-home-old.php:39 template-home-resumes.php:65
+#: template-home.php:64
+msgid "All Regions"
+msgstr ""
+
+#: sidebar-resumes.php:97
+msgid "Filter by Skills"
+msgstr ""
+
+#: sidebar-resumes.php:116
+msgid "Filter by Categories"
+msgstr ""
+
+#: sidebar.php:20 sidebar.php:38 sidebar.php:57
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:27 sidebar.php:45 sidebar.php:64
+msgid "Meta"
+msgstr ""
+
+#: single-job_listing.php:75 single-job_listing.php:85
+#: single-job_listing.php:151 single-resume.php:106 single-resume.php:116
+#: single-resume.php:125 wp-job-manager-resumes/contact-details.php:16
+msgid "Send Message"
+msgstr ""
+
+#: single-job_listing.php:83 single-resume.php:114
+msgid "Your message to "
+msgstr ""
+
+#: single-job_listing.php:114
+msgid "This position has been filled"
+msgstr ""
+
+#: single-job_listing.php:116
+msgid "Applications have closed"
+msgstr ""
+
+#: single-job_listing.php:156 single-job_listing.php:159 single-resume.php:130
+#: single-resume.php:133
+msgid "Login to Send Message"
+msgstr ""
+
+#: single-job_listing.php:174
+msgid "This listing has expired."
+msgstr ""
+
+#: single-job_listing.php:231
+msgid "Job Overview"
+msgstr ""
+
+#: single-resume.php:178
+#: wp-job-manager-apply-with-facebook/apply-with-facebook-form.php:15
+#: wp-job-manager-resumes/content-single-resume.php:89
+msgid "Education"
+msgstr ""
+
+#: single-resume.php:185 single-resume.php:204
+#: wp-job-manager-resumes/content-single-resume.php:96
+#: wp-job-manager-resumes/content-single-resume.php:115
+msgid "%s at %s"
+msgstr ""
+
+#: single-resume.php:197 wp-job-manager-resumes/content-single-resume.php:108
+msgid "Experience"
+msgstr ""
+
+#: single.php:63
+msgid "Post navigation"
+msgstr ""
+
+#: template-contact.php:79 template-parts/content-page.php:69
+msgid "Pages:"
+msgstr ""
+
+#: template-dashboard.php:23
+msgid "You do have an email address, right?"
+msgstr ""
+
+#: template-dashboard.php:26
+msgid "You need to enter a password to login."
+msgstr ""
+
+#: template-dashboard.php:29
+msgid ""
+"We don't have any users with that email address. Maybe you used a different "
+"one when signing up?"
+msgstr ""
+
+#: template-dashboard.php:35 template-dashboard.php:84
+msgid ""
+"The password you entered wasn't quite right. <a href='%s'>Did you forget "
+"your password</a>?"
+msgstr ""
+
+#: template-dashboard.php:54
+msgid "The email address you entered is not valid."
+msgstr ""
+
+#: template-dashboard.php:57
+msgid "An account exists with this email address."
+msgstr ""
+
+#: template-dashboard.php:60
+msgid "Registering new users is currently not allowed."
+msgstr ""
+
+#: template-dashboard.php:63
+msgid "Please check reCAPTCHA checbox to register."
+msgstr ""
+
+#: template-dashboard.php:66
+msgid "You're a bot, aren't you?."
+msgstr ""
+
+#: template-dashboard.php:69
+msgid "Please accept the Privacy Policy to register account."
+msgstr ""
+
+#: template-dashboard.php:72
+msgid "Please provide your first name"
+msgstr ""
+
+#: template-dashboard.php:75
+msgid "Please provide your last name"
+msgstr ""
+
+#: template-dashboard.php:78
+msgid "Please provide your user login"
+msgstr ""
+
+#: template-dashboard.php:81
+msgid "You have forgot about password."
+msgstr ""
+
+#: template-dashboard.php:163
+msgid "You have successfully registered to %s."
+msgstr ""
+
+#: template-dashboard.php:168
+msgid ""
+"You have successfully registered to %s. We have emailed your password to "
+"the email address you entered."
+msgstr ""
+
+#: template-dashboard.php:179 template-login.php:97
+#: woocommerce/myaccount/form-login.php:34
+#: woocommerce/myaccount/form-login.php:61
+msgid "Login"
+msgstr ""
+
+#: template-dashboard.php:226
+msgid "Dashboard Navigation"
+msgstr ""
+
+#: template-dashboard.php:230
+msgid "Main"
+msgstr ""
+
+#: template-dashboard.php:239
+msgid "Messages"
+msgstr ""
+
+#: template-dashboard.php:251
+msgid "Bookmarks"
+msgstr ""
+
+#: template-dashboard.php:259
+msgid "Job Alerts"
+msgstr ""
+
+#: template-dashboard.php:276
+msgid "Manage Jobs"
+msgstr ""
+
+#: template-dashboard.php:292
+msgid "Submit Job"
+msgstr ""
+
+#: template-dashboard.php:309
+msgid "Manage Resumes"
+msgstr ""
+
+#: template-dashboard.php:325
+#: wp-job-manager-resumes/candidate-dashboard.php:112
+msgid "Add Resume"
+msgstr ""
+
+#: template-dashboard.php:335
+msgid "My Applications"
+msgstr ""
+
+#: template-dashboard.php:354
+msgid "Account"
+msgstr ""
+
+#: template-dashboard.php:356
+msgid "My Profile"
+msgstr ""
+
+#: template-dashboard.php:367
+msgid "My Orders"
+msgstr ""
+
+#: template-dashboard.php:377
+msgid "My Subscriptions"
+msgstr ""
+
+#: template-dashboard.php:416
+msgid "Howdy,"
+msgstr ""
+
+#: template-dashboard.php:423
+msgid "Approved Bookings"
+msgstr ""
+
+#: template-dashboard.php:427
+msgid "Pending Bookings"
+msgstr ""
+
+#: template-dashboard.php:431
+msgid "Cancelled Bookings"
+msgstr ""
+
+#: template-dashboard.php:437
+msgid "Bookings"
+msgstr ""
+
+#: template-dashboard.php:450
+msgid "Home"
+msgstr ""
+
+#: template-home-old.php:32
+msgid "keywords"
+msgstr ""
+
+#: template-home-old.php:52 template-home-resumes.php:79
+msgid "city, province or region"
+msgstr ""
+
+#: template-home-old.php:77 template-home-resumes.php:105
+msgid "All categories"
+msgstr ""
+
+#: template-home-old.php:100
+msgid " Or browse job offers by <a href=\"%s\">category</a>"
+msgstr ""
+
+#: template-home-old.php:111
+msgid "We have %s job offer for you!"
+msgid_plural "We have %s job offers for you!"
+msgstr[0] ""
+msgstr[1] ""
+
+#: template-home-resumes.php:53
+msgid "What candidate are you looking for?"
+msgstr ""
+
+#: template-home-resumes.php:61 template-home.php:60
+msgid "Where?"
+msgstr ""
+
+#: template-home-resumes.php:117 template-home.php:116
+msgid "Search"
+msgstr ""
+
+#: template-home-resumes.php:131 template-home.php:132
+msgid "Need more search options?"
+msgstr ""
+
+#: template-home-resumes.php:132 template-home.php:133
+msgid "Advanced Search"
+msgstr ""
+
+#: template-home.php:52
+msgid "What job are you looking for?"
+msgstr ""
+
+#: template-home.php:53
+msgid "Job title, Skill, Industry"
+msgstr ""
+
+#: template-home.php:78
+msgid "City, State or Zip"
+msgstr ""
+
+#: template-home.php:104
+msgid "All Categories"
+msgstr ""
+
+#: template-jobpackages.php:144 template-resumepackages.php:145
+#: woocommerce/content-product.php:128 woocommerce/content-product.php:153
+msgid "Add to cart"
+msgstr ""
+
+#: template-login.php:55 template-login.php:75
+msgid "Change password"
+msgstr ""
+
+#: template-login.php:56
+msgid "You may change your password if you are so inclined."
+msgstr ""
+
+#: template-login.php:63
+msgid "Password changed successfully"
+msgstr ""
+
+#: template-login.php:73 woocommerce/myaccount/dashboard.php:23
+msgid "<h2 class=\"my-acc-h2\">Hello <strong>%1$s</strong></h2>"
+msgstr ""
+
+#: template-login.php:74
+msgid "Log out"
+msgstr ""
+
+#: template-login.php:80
+msgid ""
+"<a href=\"%s\" class=\"button margin-bottom-15\"><i class=\"fa "
+"fa-user\"></i> Candidate Dashboard </a>"
+msgstr ""
+
+#: template-login.php:86
+msgid ""
+"<a href=\"%s\" class=\"button  margin-bottom-15\"><i class=\"fa "
+"fa-user\"></i> Employer Dashboard </a>"
+msgstr ""
+
+#: template-parts/button-job.php:2
+msgid "Post a Job, It's Free!"
+msgstr ""
+
+#: template-parts/button-resume.php:2
+msgid "Post a Resume, It's Free!"
+msgstr ""
+
+#: template-parts/content-gallery.php:37 template-parts/content-quote.php:33
+#: template-parts/content-standard.php:20 template-parts/content-video.php:23
+#: template-parts/content.php:22
+msgid "Read More"
+msgstr ""
+
+#: template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:22
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:26
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/jobs-related.php:41
+msgid "Related Jobs"
+msgstr ""
+
+#: template-resumepackages.php:124
+msgid "Unlimited number of resumes"
+msgstr ""
+
+#: woocommerce/cart/cart.php:29 woocommerce/cart/cart.php:61
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:30 woocommerce/cart/cart.php:81
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:31 woocommerce/cart/cart.php:87
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:105
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:76
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:116
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:135
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:135
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:135
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:141
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:30
+msgid ""
+"Unfortunately your order cannot be processed as the originating "
+"bank/merchant has declined your transaction."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:34
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:36
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:41
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:43
+msgid "My account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:50 woocommerce/checkout/thankyou.php:93
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:55
+msgid "Order number:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:60
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:66
+msgid "Email:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:72
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:78
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:31
+msgid ""
+"From your account dashboard you can view your %1$srecent orders%2$s, manage "
+"your %3$sshipping and billing addresses%2$s and %4$sedit your password and "
+"account details%2$s."
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:46
+msgid ""
+"To check your Job Listings and Applications visit %1$sEmployer "
+"Dashboard%2$s."
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:54
+msgid ""
+"To check your Resumes and Past Applications visit %1$sCandidate "
+"Dashboard%2$s."
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:62
+msgid "To check your Job Listings visit %1$sEmployer Dashboard%2$s."
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:69
+msgid "To check your Resumes visit %1$sCandidate Dashboard%2$s."
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:47
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:52
+#: woocommerce/myaccount/form-login.php:100
+msgid "Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:63
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:67
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:85
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:92
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:115
+msgid "Anti-spam"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:36
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:40
+msgid "%s review"
+msgid_plural "%s reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/related.php:27
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/review.php:37
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: woocommerce/single-product/review.php:46
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: woocommerce/single-product/review.php:52
+msgid "verified owner"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:25
+msgid "Product Description"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:34
+#. translators: 1: reviews count 2: product name
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:36
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:58
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:64
+#: woocommerce/single-product-reviews.php:68
+msgid "Add Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:73
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:73
+msgid "Be the first to review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:74
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:78
+msgid "Name"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:80
+#: wp-job-manager-alerts/my-alerts.php:106
+#: wp-job-manager-applications/job-applications.php:74
+#: wp-job-manager-apply-with-facebook/apply-with-facebook-form.php:18
+msgid "Email"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:89
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:90
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:91
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:92
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:93
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:94
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:95
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:99
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:109
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: wp-job-manager-alerts/alert-form.php:5
+msgid "Add New Alert"
+msgstr ""
+
+#: wp-job-manager-alerts/alert-form.php:8
+#: wp-job-manager-alerts/my-alerts.php:11
+msgid "Alert Name"
+msgstr ""
+
+#: wp-job-manager-alerts/alert-form.php:10
+msgid "Enter a name for your alert"
+msgstr ""
+
+#: wp-job-manager-alerts/alert-form.php:14
+msgid "Keyword"
+msgstr ""
+
+#: wp-job-manager-alerts/alert-form.php:16
+msgid "Optionally add a keyword to match jobs against"
+msgstr ""
+
+#: wp-job-manager-alerts/alert-form.php:21
+msgid "Job Region"
+msgstr ""
+
+#: wp-job-manager-alerts/alert-form.php:33
+msgid "Any region"
+msgstr ""
+
+#: wp-job-manager-alerts/alert-form.php:42
+msgid "Optionally define a location to search against"
+msgstr ""
+
+#: wp-job-manager-alerts/alert-form.php:80
+msgid "Any tag"
+msgstr ""
+
+#: wp-job-manager-alerts/alert-form.php:89
+msgid "Any job type"
+msgstr ""
+
+#: wp-job-manager-alerts/alert-form.php:99
+msgid "Email Frequency"
+msgstr ""
+
+#: wp-job-manager-alerts/alert-form.php:111
+msgid "Save alert"
+msgstr ""
+
+#: wp-job-manager-alerts/my-alerts.php:1
+msgid ""
+"Your job alerts are shown in the table below. Your alerts will be sent to "
+"%s."
+msgstr ""
+
+#: wp-job-manager-alerts/my-alerts.php:21
+msgid "Frequency"
+msgstr ""
+
+#: wp-job-manager-alerts/my-alerts.php:29
+msgid "You do not have any job alerts."
+msgstr ""
+
+#: wp-job-manager-alerts/my-alerts.php:94
+msgid "Next: %s at %s"
+msgstr ""
+
+#: wp-job-manager-alerts/my-alerts.php:96
+msgid "Disabled"
+msgstr ""
+
+#: wp-job-manager-alerts/my-alerts.php:96
+msgid "Enabled"
+msgstr ""
+
+#: wp-job-manager-alerts/my-alerts.php:102
+msgid "Show Results"
+msgstr ""
+
+#: wp-job-manager-alerts/my-alerts.php:144
+msgid "Add alert"
+msgstr ""
+
+#: wp-job-manager-applications/application-form-login.php:1
+msgid "You need to be signed in to apply for this position."
+msgstr ""
+
+#: wp-job-manager-applications/application-form.php:24
+#: wp-job-manager-resumes/apply-with-resume.php:36
+msgid "Send application"
+msgstr ""
+
+#: wp-job-manager-applications/job-applications.php:20
+msgid "The job applications for \"%s\" are listed below."
+msgstr ""
+
+#: wp-job-manager-applications/job-applications.php:21
+msgid "Download CSV"
+msgstr ""
+
+#: wp-job-manager-applications/job-applications.php:27
+msgid "Filter by status"
+msgstr ""
+
+#: wp-job-manager-applications/job-applications.php:37
+msgid "Newest first"
+msgstr ""
+
+#: wp-job-manager-applications/job-applications.php:38
+msgid "Sort by name"
+msgstr ""
+
+#: wp-job-manager-applications/job-applications.php:39
+msgid "Sort by rating"
+msgstr ""
+
+#: wp-job-manager-applications/job-applications.php:74
+msgid "Your job application for %s"
+msgstr ""
+
+#: wp-job-manager-applications/job-applications.php:74
+msgid "Hello %s"
+msgstr ""
+
+#: wp-job-manager-applications/job-applications.php:80
+msgid "View Resume"
+msgstr ""
+
+#: wp-job-manager-applications/job-applications.php:89
+#: wp-job-manager-bookmarks/my-bookmarks.php:8
+msgid "Notes"
+msgstr ""
+
+#: wp-job-manager-applications/job-applications.php:90
+msgid "Details"
+msgstr ""
+
+#: wp-job-manager-applications/job-applications.php:107
+msgid "Application status"
+msgstr ""
+
+#: wp-job-manager-applications/job-applications.php:118
+msgid "Rating (out of 5)"
+msgstr ""
+
+#: wp-job-manager-applications/job-applications.php:125
+msgid "Delete this application"
+msgstr ""
+
+#: wp-job-manager-applications/job-applications.php:126
+msgid "Save changes"
+msgstr ""
+
+#: wp-job-manager-applications/past-applications.php:3
+msgid "Job"
+msgstr ""
+
+#: wp-job-manager-applications/past-applications.php:4
+msgid "Date Applied"
+msgstr ""
+
+#: wp-job-manager-applications/past-applications.php:6
+msgid "Application Message"
+msgstr ""
+
+#: wp-job-manager-apply-with-facebook/apply-with-facebook-form.php:9
+msgid "Current"
+msgstr ""
+
+#: wp-job-manager-apply-with-facebook/apply-with-facebook-form.php:12
+msgid "Past"
+msgstr ""
+
+#: wp-job-manager-apply-with-facebook/apply-with-facebook-form.php:22
+msgid "Cover letter"
+msgstr ""
+
+#: wp-job-manager-apply-with-facebook/apply-with-facebook-form.php:36
+msgid "Submit Application"
+msgstr ""
+
+#: wp-job-manager-apply-with-facebook/apply-with-facebook-form.php:36
+msgid "Clicking submit will submit your full profile to %s."
+msgstr ""
+
+#: wp-job-manager-apply-with-facebook/apply-with-facebook.php:3
+msgid "Apply with Facebook"
+msgstr ""
+
+#: wp-job-manager-bookmarks/bookmark-form.php:5
+msgid "Remove Bookmark"
+msgstr ""
+
+#: wp-job-manager-bookmarks/bookmark-form.php:8
+msgid "This %s is bookmarked!"
+msgstr ""
+
+#: wp-job-manager-bookmarks/bookmark-form.php:11
+msgid "Bookmark This %s"
+msgstr ""
+
+#: wp-job-manager-bookmarks/bookmark-form.php:16
+msgid "Bookmark Details"
+msgstr ""
+
+#: wp-job-manager-bookmarks/bookmark-form.php:19
+msgid "Notes:"
+msgstr ""
+
+#: wp-job-manager-bookmarks/bookmark-form.php:23
+msgid "Update Bookmark"
+msgstr ""
+
+#: wp-job-manager-bookmarks/bookmark-form.php:23
+msgid "Add Bookmark"
+msgstr ""
+
+#: wp-job-manager-bookmarks/logged-out-bookmark-form.php:2
+msgid "Login to bookmark"
+msgstr ""
+
+#: wp-job-manager-bookmarks/my-bookmarks.php:7
+msgid "Bookmark"
+msgstr ""
+
+#: wp-job-manager-bookmarks/my-bookmarks.php:49
+msgid "You currently have no bookmarks"
+msgstr ""
+
+#: wp-job-manager-resumes/account-signin.php:10
+msgid "You are currently signed in as %s."
+msgstr ""
+
+#: wp-job-manager-resumes/account-signin.php:29
+msgid ""
+"If you don&rsquo;t have an account you can create one below by entering "
+"your email address. A password will be automatically emailed to you."
+msgstr ""
+
+#: wp-job-manager-resumes/account-signin.php:33
+msgid "You must sign in to submit a resume."
+msgstr ""
+
+#: wp-job-manager-resumes/apply-with-resume.php:9
+msgid ""
+"Apply using your online resume; just enter a short message and choose one "
+"of your resumes to email your application."
+msgstr ""
+
+#: wp-job-manager-resumes/apply-with-resume.php:11
+msgid "Online resume"
+msgstr ""
+
+#: wp-job-manager-resumes/apply-with-resume.php:13
+msgid "Choose a resume..."
+msgstr ""
+
+#: wp-job-manager-resumes/apply-with-resume.php:22
+msgid "Message"
+msgstr ""
+
+#: wp-job-manager-resumes/apply-with-resume.php:42
+msgid ""
+"You can apply to this job and others using your online resume. Click the "
+"link below to submit your online resume and email your application to this "
+"employer."
+msgstr ""
+
+#: wp-job-manager-resumes/apply-with-resume.php:45
+msgid "Submit resume and apply"
+msgstr ""
+
+#: wp-job-manager-resumes/candidate-dashboard-login.php:3
+msgid "You need to be signed in to manage your resumes."
+msgstr ""
+
+#: wp-job-manager-resumes/candidate-dashboard.php:6
+msgid "Your resume can be viewed, edited or removed below."
+msgid_plural "Your resume(s) can be viewed, edited or removed below."
+msgstr[0] ""
+msgstr[1] ""
+
+#: wp-job-manager-resumes/candidate-dashboard.php:27
+msgid "You do not have any active resume listings."
+msgstr ""
+
+#: wp-job-manager-resumes/candidate-dashboard.php:53
+msgid "Expires %s"
+msgstr ""
+
+#: wp-job-manager-resumes/candidate-dashboard.php:72
+msgid "Hide"
+msgstr ""
+
+#: wp-job-manager-resumes/candidate-dashboard.php:76
+msgid "Publish"
+msgstr ""
+
+#: wp-job-manager-resumes/contact-details.php:13
+msgid "Contact"
+msgstr ""
+
+#: wp-job-manager-resumes/form-fields/repeated-field.php:45
+msgid "Add URL"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "WorkScout"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://workscout.in/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "WordPress Job Board Theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Purethemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://purethemes.net/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Dashboard Page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page with Jobs Search (old version)"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page with Resumes Search"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page with Jobs Search"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Job Categories Page Template"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page Template Job Packages (WooCommerce)"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page with Jobs Filters No Map"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page with Jobs Filters"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page Template Login"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page Template Resume Packages (WooCommerce)"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page Template with Revolution Slider"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Resumes With Map - Split Page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Jobs With Map - Split Page"
+msgstr ""
+
+#: comments.php:30
+msgctxt "comments title"
+msgid "Comments %1$s"
+msgid_plural " Comments %1$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:1206
+#: inc/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2427
+#. translators: 1: install status, 2: update status
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2473
+#. translators: 1: number of plugins.
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: wp-job-manager-apply-with-facebook/apply-with-facebook-form.php:24
+#: wp-job-manager-resumes/apply-with-resume.php:27
+msgctxt "default cover letter"
+msgid "To whom it may concern,"
+msgstr ""
+
+#: wp-job-manager-apply-with-facebook/apply-with-facebook-form.php:27
+msgctxt "default cover letter"
+msgid ""
+"I am very interested in the %s position at %s. I believe my skills and work "
+"experience make me an ideal candidate for this role. I look forward to "
+"speaking with you soon about this position. Thank you for your "
+"consideration."
+msgstr ""
+
+#: wp-job-manager-apply-with-facebook/apply-with-facebook-form.php:30
+msgctxt "default cover letter"
+msgid "Best regards,"
+msgstr ""
+
+#: wp-job-manager-resumes/apply-with-resume.php:29
+msgctxt "default cover letter"
+msgid ""
+"I am very interested in the %s position at %s. I believe my skills and work "
+"experience make me an ideal candidate for this role. I look forward to "
+"speaking with you soon about this position."
+msgstr ""
+
+#: wp-job-manager-resumes/apply-with-resume.php:31
+msgctxt "default cover letter"
+msgid "Thank you for your consideration."
+msgstr ""

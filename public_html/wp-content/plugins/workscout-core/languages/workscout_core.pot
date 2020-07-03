@@ -1,0 +1,3150 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: WorkScout-Core - WorkScout WPJM Plugin by Purethemes\n"
+"POT-Creation-Date: 2020-04-18 01:46+0200\n"
+"PO-Revision-Date: 2020-01-10 12:08+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: workscout-core.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: includes/class-workscout-core-activities-log.php:216
+msgid " ago"
+msgstr ""
+
+#: includes/class-workscout-core-activities-log.php:222
+msgid "Someone bookmarked your "
+msgstr ""
+
+#: includes/class-workscout-core-activities-log.php:222
+#: includes/class-workscout-core-activities-log.php:228
+msgid "listing"
+msgstr ""
+
+#: includes/class-workscout-core-activities-log.php:228
+msgid "Someone unbookmarked your"
+msgstr ""
+
+#: includes/class-workscout-core-activities-log.php:234
+#: includes/class-workscout-core-activities-log.php:239
+#: includes/class-workscout-core-activities-log.php:248
+msgid "Listing"
+msgstr ""
+
+#: includes/class-workscout-core-activities-log.php:234
+msgid "was updated"
+msgstr ""
+
+#: includes/class-workscout-core-activities-log.php:239
+msgid "was created."
+msgstr ""
+
+#: includes/class-workscout-core-activities-log.php:243
+#: includes/class-workscout-core-activities-log.php:255
+msgid "Your Listing"
+msgstr ""
+
+#: includes/class-workscout-core-activities-log.php:243
+msgid "was approved"
+msgstr ""
+
+#: includes/class-workscout-core-activities-log.php:248
+msgid "was removed"
+msgstr ""
+
+#: includes/class-workscout-core-activities-log.php:255
+msgid "has been approved!"
+msgstr ""
+
+#: includes/class-workscout-core-activities-log.php:262
+msgid "You have added listing"
+msgstr ""
+
+#: includes/class-workscout-core-activities-log.php:269
+msgid "Someone applied to your job "
+msgstr ""
+
+#: includes/class-workscout-core-activities-log.php:280
+#: includes/class-workscout-core-activities-log.php:282
+msgid "You don't have any activities logged yet."
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:151
+msgid "WorkScout Core "
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:151
+msgid "WorkScout Core"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:199
+msgid "General"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:200
+msgid "General WorkScout settings."
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:205 vc_map/pricing_table.php:41
+msgid "Currency"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:206
+msgid "Choose a currency used."
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:210
+#: includes/class-workscout-core-wpjm-settings.php:34
+msgid "Disable Currency Symbol"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:211
+#: includes/class-workscout-core-admin.php:262
+#: includes/class-workscout-core-wpjm-settings.php:35
+#: includes/class-workscout-core-wpjm-settings.php:82
+msgid "US Dollars"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:212
+#: includes/class-workscout-core-wpjm-settings.php:36
+msgid "United Arab Emirates Dirham"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:213
+#: includes/class-workscout-core-wpjm-settings.php:37
+msgid "Argentine Peso"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:214
+#: includes/class-workscout-core-wpjm-settings.php:38
+msgid "Australian Dollars"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:215
+#: includes/class-workscout-core-wpjm-settings.php:39
+msgid "Bangladeshi Taka"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:216
+#: includes/class-workscout-core-wpjm-settings.php:40
+msgid "Bahraini Dinar"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:217
+#: includes/class-workscout-core-wpjm-settings.php:41
+msgid "Brazilian Real"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:218
+#: includes/class-workscout-core-wpjm-settings.php:42
+msgid "Bulgarian Lev"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:219
+#: includes/class-workscout-core-wpjm-settings.php:43
+msgid "Canadian Dollars"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:220
+#: includes/class-workscout-core-wpjm-settings.php:44
+msgid "Chilean Peso"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:221
+#: includes/class-workscout-core-wpjm-settings.php:45
+msgid "Chinese Yuan"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:222
+#: includes/class-workscout-core-wpjm-settings.php:46
+msgid "Colombian Peso"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:223
+#: includes/class-workscout-core-wpjm-settings.php:47
+msgid "Czech Koruna"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:224
+#: includes/class-workscout-core-wpjm-settings.php:48
+msgid "Danish Krone"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:225
+#: includes/class-workscout-core-wpjm-settings.php:49
+msgid "Dominican Peso"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:226
+msgid "Moroccan Dirham"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:227
+#: includes/class-workscout-core-wpjm-settings.php:50
+msgid "Euros"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:228
+msgid "Ghanaian Cedi"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:229
+#: includes/class-workscout-core-wpjm-settings.php:51
+msgid "Hong Kong Dollar"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:230
+#: includes/class-workscout-core-wpjm-settings.php:52
+msgid "Croatia kuna"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:231
+#: includes/class-workscout-core-wpjm-settings.php:53
+msgid "Hungarian Forint"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:232
+#: includes/class-workscout-core-wpjm-settings.php:54
+msgid "Icelandic krona"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:233
+#: includes/class-workscout-core-wpjm-settings.php:55
+msgid "Indonesia Rupiah"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:234
+#: includes/class-workscout-core-wpjm-settings.php:56
+msgid "Indian Rupee"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:235
+#: includes/class-workscout-core-wpjm-settings.php:57
+msgid "Nepali Rupee"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:236
+#: includes/class-workscout-core-wpjm-settings.php:58
+msgid "Israeli Shekel"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:237
+#: includes/class-workscout-core-wpjm-settings.php:59
+msgid "Japanese Yen"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:238
+msgid "Jordanian Dinar"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:239
+msgid "Kazakhstani tenge"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:240
+#: includes/class-workscout-core-wpjm-settings.php:60
+msgid "Lao Kip"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:241
+#: includes/class-workscout-core-wpjm-settings.php:61
+msgid "South Korean Won"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:242
+#: includes/class-workscout-core-wpjm-settings.php:62
+msgid "Sri Lankan Rupee"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:243
+#: includes/class-workscout-core-wpjm-settings.php:63
+msgid "Malaysian Ringgits"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:244
+#: includes/class-workscout-core-wpjm-settings.php:64
+msgid "Mexican Peso"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:245
+#: includes/class-workscout-core-wpjm-settings.php:65
+msgid "Nigerian Naira"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:246
+#: includes/class-workscout-core-wpjm-settings.php:66
+msgid "Norwegian Krone"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:247
+#: includes/class-workscout-core-wpjm-settings.php:67
+msgid "New Zealand Dollar"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:248
+#: includes/class-workscout-core-wpjm-settings.php:68
+msgid "Paraguayan Guaraní"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:249
+#: includes/class-workscout-core-wpjm-settings.php:69
+msgid "Philippine Pesos"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:250
+#: includes/class-workscout-core-wpjm-settings.php:70
+msgid "Polish Zloty"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:251
+#: includes/class-workscout-core-wpjm-settings.php:71
+msgid "Pounds Sterling"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:252
+#: includes/class-workscout-core-wpjm-settings.php:72
+msgid "Romanian Leu"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:253
+#: includes/class-workscout-core-wpjm-settings.php:73
+msgid "Russian Ruble"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:254
+#: includes/class-workscout-core-wpjm-settings.php:74
+msgid "Singapore Dollar"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:255
+#: includes/class-workscout-core-wpjm-settings.php:75
+msgid "South African rand"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:256
+#: includes/class-workscout-core-wpjm-settings.php:76
+msgid "Swedish Krona"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:257
+#: includes/class-workscout-core-wpjm-settings.php:77
+msgid "Swiss Franc"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:258
+#: includes/class-workscout-core-wpjm-settings.php:78
+msgid "Taiwan New Dollars"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:259
+#: includes/class-workscout-core-wpjm-settings.php:79
+msgid "Thai Baht"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:260
+#: includes/class-workscout-core-wpjm-settings.php:80
+msgid "Turkish Lira"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:261
+#: includes/class-workscout-core-wpjm-settings.php:81
+msgid "Ukrainian Hryvnia"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:263
+#: includes/class-workscout-core-wpjm-settings.php:83
+msgid "Vietnamese Dong"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:264
+#: includes/class-workscout-core-wpjm-settings.php:84
+msgid "Egyptian Pound"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:265
+#: includes/class-workscout-core-wpjm-settings.php:85
+msgid "Zambian Kwacha"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:270
+msgid "Currency position"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:271
+msgid "Set currency symbol before or after"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:282
+msgid "Use WorkScout Private Messages to contact job owner"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:283
+msgid "Will add \"send message\" button to job listings"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:289
+msgid "Use WorkScout Private Messages to contact candidates"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:290
+msgid "Will add \"send message\" button to resumes"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:317
+msgid "Map Settings"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:318
+msgid "Settings for map usage."
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:323
+msgid "Restrict search results to one country (works only with Google Maps)"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:324
+msgid ""
+"Put symbol of country you want to restrict your results to (eg. uk for "
+"United Kingdon). Leave empty to search whole world."
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:330
+msgid "Listings map center point"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:331
+msgid ""
+"Write latitude and longitude separated by come, for example -34.397,150.644"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:338
+msgid "Maps Provider"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:339
+msgid "Choose which service you want to use for maps"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:343
+#: includes/class-workscout-core-admin.php:361
+msgid "OpenStreetMap"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:344
+msgid ""
+"Google Maps <a href=\"http://www.docs.purethemes.net/workscout/knowledge-"
+"base/getting-google-maps-api-key/\">(requires API key)</a>"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:345
+msgid ""
+"MapBox <a href=\"https://account.mapbox.com/access-tokens/create\">(requires "
+"API key)</a>"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:346
+msgid ""
+"Bing <a href=\"https://www.microsoft.com/en-us/maps/choose-your-bing-maps-api"
+"\">(requires API key)</a>"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:347
+msgid ""
+"ThunderForest <a href=\"https://manage.thunderforest.com/\">(requires API "
+"key)</a>"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:348
+msgid ""
+"HERE <a href=\"https://developer.here.com/lp/mapAPIs?create=Freemium-"
+"Basic&keepState=true&step=account\">(requires API key)</a>"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:350
+msgid "None - this will dequeue all map related scripts"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:356
+msgid "Address suggestion provider"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:357
+msgid "Choose which service you want to use for adress autocomplete"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:362
+msgid ""
+"Google Maps <a href=\"http://www.docs.purethemes.net/workscout/knowledge-"
+"base/getting-google-maps-api-key/\">(requires API key and Maps Provider set "
+"to Google Maps)</a>"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:363
+msgid "Disable address suggestion"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:371
+#: includes/class-workscout-core-admin.php:375
+#: includes/class-workscout-core-admin.php:434
+msgid "Google Maps API key"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:372
+msgid ""
+"Generate API key for google maps functionality (can be domain restricted)."
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:380
+msgid "MapBox Access Token"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:381
+msgid "Generate Access Token for MapBox"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:384
+msgid "MapBox Access Token key"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:387
+msgid "MapBox Retina Tiles"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:388
+msgid "Enable to use Retina Tiles. Might affect map loading speed."
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:394
+msgid "Bing Maps Key"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:395
+msgid "API key for Bing Maps"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:398
+msgid "Bing Maps API Key"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:401
+#: includes/class-workscout-core-admin.php:405
+msgid "ThunderForest API Key"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:402
+msgid "API key for ThunderForest"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:408
+#: includes/class-workscout-core-admin.php:409
+msgid "HERE App ID"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:412
+msgid "HERE Maps API Key"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:415
+#: includes/class-workscout-core-admin.php:419
+msgid "HERE App Code"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:416
+msgid "App code key for HERE Maps"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:424
+msgid "Radius search settings"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:430
+msgid "Google Maps API key for server side geocoding"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:431
+msgid ""
+"Generate API key for geocoding search functionality (without any domain/key "
+"restriction)."
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:438
+msgid "Radius slider default state"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:439
+msgid "Choose radius search slider"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:443
+msgid "Disabled by default"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:444
+msgid "Enabled by default"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:449
+msgid "Radius search unit"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:450
+msgid "Choose a unit"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:454
+msgid "km"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:455
+msgid "miles"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:460
+msgid "Default radius search value"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:461
+msgid ""
+"Set default radius for search, leave empty to disable default radius search."
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:474
+msgid "Registration"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:475
+msgid "Settings for users registration and login."
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:479
+msgid "Enable Forced Front End Login"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:480
+msgid ""
+"Enabling this option will redirect all wp-login request to frontend form. Be "
+"aware that on some servers or some configuration, especially with security "
+"plugins, this might cause a redirect loop, so always test this setting on "
+"different browser, while being still logged in Dashboard to have option to "
+"disable that if things go wrong."
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:485
+msgid "Login/Registration Form Type"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:486
+#: includes/class-workscout-core-admin.php:497
+#: includes/class-workscout-core-admin.php:503
+#: includes/class-workscout-core-admin.php:515
+msgid "."
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:489
+msgid "Ajax form in a popup"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:490
+msgid "Separate page"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:496
+msgid "Enable Privacy Policy link in registration form"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:502
+msgid "Automatically login user after successful registration"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:508
+msgid "Enable reCAPTCHA on registration form"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:509
+msgid ""
+"Check this checkbox to add reCAPTCHA to form. You need to provide API keys "
+"for that."
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:514
+msgid "Recaptcha version"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:518
+msgid "V2 checkbox"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:519
+msgid "V3"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:525
+msgid "reCAPTCHA v2 Site Key"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:526
+#: includes/class-workscout-core-admin.php:532
+msgid ""
+"Get the sitekey from https://www.google.com/recaptcha/admin#list - use "
+"reCaptcha v2"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:531
+msgid "reCAPTCHA v2 Secret Key"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:537
+msgid "reCAPTCHA v3 Site Key"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:538
+#: includes/class-workscout-core-admin.php:544
+msgid ""
+"Get the sitekey from https://www.google.com/recaptcha/admin#list - use "
+"reCaptcha v3"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:543
+msgid "reCAPTCHA v3 Secret Key"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:549
+msgid "Hide Role field in Registration Form"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:550
+msgid ""
+"If hidden, set default role in Settings -> General -> New User Default Role"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:555
+msgid "Hide Username field in Registration Form"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:556
+msgid "Username will be generated from email address (part before @)"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:562
+msgid "Display First and Last name fields in registration form"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:563
+msgid "Adds optional input fields for first and last name"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:568
+msgid "Add Password pickup field to registration form"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:569
+msgid ""
+"Enable to add password field, when disabled it will be randomly generated "
+"and sent via email"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:576
+msgid "Pages"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:577
+msgid "Set all pages required in WorkScout."
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:582
+msgid "Dashboard Page"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:583
+msgid "Main Dashboard page for user"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:589
+msgid "Messages Page"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:590
+msgid "Main page for user messages"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:596
+msgid "Past Applications Page"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:597
+msgid "Page to show previous applications (requires Applications add-on)"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:604
+msgid "My Profile Page"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:605
+msgid "Displays user profile page"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:610
+msgid "Lost Password Page"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:611
+msgid "Select page that holds [workscout_lost_password] shortcode"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:617
+msgid "Reset Password Page"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:618
+msgid "Select page that holds [workscout_reset_password] shortcode"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:624
+msgid "Browse Job Categories Page"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:625
+msgid "Select page that shows list of job categories"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:631
+msgid "Browse Resume Categories Page"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:632
+msgid "Select page that shows list of resume categories"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:640
+msgid "WooCommerce Orders Page"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:641
+msgid "Displays orders page in dashboard menu"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:646
+msgid "WooCommerce Subscription Page"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:647
+msgid ""
+"Displays subscription page in dashboard menu (requires WooCommerce "
+"Subscription plugin)"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:718
+msgid "Emails"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:719
+msgid "Email settings."
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:723
+msgid "\"From name\" in email"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:724
+msgid ""
+"The name from who the email is received, by default it is your site name."
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:731
+msgid "\"From\" email "
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:732
+msgid ""
+"This will act as the \"from\" and \"reply-to\" address. This emails should "
+"match your domain address"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:740
+msgid "Registration/Welcome email for new users"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:743
+#: includes/class-workscout-core-admin.php:783
+#: includes/class-workscout-core-admin.php:814
+msgid "Available tags are:"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:746
+msgid "Welcome  Email Subject"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:747
+msgid "Welcome to {site_name}"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:752
+msgid "Published notification Email Content"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:769
+msgid "Email notification about new conversation"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:774
+msgid "Enable new conversation notification email"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:775
+msgid ""
+"Check this checkbox to enable sending emails to user when there was new "
+"conversation started"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:780
+msgid "New conversation notification email subject"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:781
+msgid "You got new conversation"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:787
+msgid "New conversation notification email content"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:800
+msgid "Email notification about new message"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:805
+msgid "Enable new message notification email"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:806
+msgid ""
+"Check this checkbox to enable sending emails to user when there was new "
+"message send"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:811
+msgid "New message notification email subject"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:812
+msgid "You got new message"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:818
+msgid "New message notification email content"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:899
+msgid "Plugin Settings"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:951
+msgid "Save Settings"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:1104
+msgid "Upload an image"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:1104
+msgid "Use image"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:1104
+msgid "Upload new image"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:1105
+msgid "Remove image"
+msgstr ""
+
+#: includes/class-workscout-core-admin.php:1319
+#: includes/class-workscout-core-admin.php:1328
+#: includes/class-workscout-core.php:552 includes/class-workscout-core.php:561
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: includes/class-workscout-core-editor.php:168
+msgid "Please upload a valid .json file"
+msgstr ""
+
+#: includes/class-workscout-core-editor.php:174
+msgid "Please upload a file to import"
+msgstr ""
+
+#: includes/class-workscout-core-fields.php:60
+#: includes/class-workscout-core-fields.php:227
+msgid "Minimum rate/h"
+msgstr ""
+
+#: includes/class-workscout-core-fields.php:63
+#: includes/class-workscout-core-fields.php:143
+#: includes/class-workscout-core-fields.php:149
+#: includes/class-workscout-core-fields.php:230
+#: includes/class-workscout-core-fields.php:246
+msgid "e.g. 20"
+msgstr ""
+
+#: includes/class-workscout-core-fields.php:67
+msgid "Maximum rate/h"
+msgstr ""
+
+#: includes/class-workscout-core-fields.php:70
+msgid "e.g. 50"
+msgstr ""
+
+#: includes/class-workscout-core-fields.php:77
+msgid "Minimum Salary"
+msgstr ""
+
+#: includes/class-workscout-core-fields.php:80
+msgid "e.g. 20000"
+msgstr ""
+
+#: includes/class-workscout-core-fields.php:84
+msgid "Maximum Salary"
+msgstr ""
+
+#: includes/class-workscout-core-fields.php:87
+msgid "e.g. 50000"
+msgstr ""
+
+#: includes/class-workscout-core-fields.php:94
+#: includes/class-workscout-core-fields.php:133
+msgid "Hours per week"
+msgstr ""
+
+#: includes/class-workscout-core-fields.php:97
+msgid "e.g. 40"
+msgstr ""
+
+#: includes/class-workscout-core-fields.php:103
+#: includes/class-workscout-core-fields.php:168
+msgid "External \"Apply for Job\" link"
+msgstr ""
+
+#: includes/class-workscout-core-fields.php:106
+#: includes/class-workscout-core-fields.php:170
+msgid "http://"
+msgstr ""
+
+#: includes/class-workscout-core-fields.php:110
+msgid "Header Image"
+msgstr ""
+
+#: includes/class-workscout-core-fields.php:113
+msgid "The header image size should be at least 1750x425px"
+msgstr ""
+
+#: includes/class-workscout-core-fields.php:141
+#: includes/class-workscout-core-fields.php:244
+msgid "Rate/h (minimum)"
+msgstr ""
+
+#: includes/class-workscout-core-fields.php:144
+#: includes/class-workscout-core-fields.php:158
+msgid "Put just a number"
+msgstr ""
+
+#: includes/class-workscout-core-fields.php:147
+msgid "Rate/h (maximum) "
+msgstr ""
+
+#: includes/class-workscout-core-fields.php:150
+msgid ""
+"Put just a number - you can leave it empty and set only minimum rate value "
+msgstr ""
+
+#: includes/class-workscout-core-fields.php:155
+msgid "Salary min"
+msgstr ""
+
+#: includes/class-workscout-core-fields.php:157
+msgid "e.g. 20.000"
+msgstr ""
+
+#: includes/class-workscout-core-fields.php:161
+msgid "Salary max"
+msgstr ""
+
+#: includes/class-workscout-core-fields.php:163
+msgid "e.g. 50.000"
+msgstr ""
+
+#: includes/class-workscout-core-fields.php:164
+msgid ""
+"Maximum of salary range you can offer - you can leave it empty and set only "
+"minimum salary "
+msgstr ""
+
+#: includes/class-workscout-core-fields.php:171
+msgid ""
+"If the job applying is done on external page, here's the place to put link "
+"to that page - it will be used instead of standard Apply form"
+msgstr ""
+
+#: includes/class-workscout-core-fields.php:174
+msgid "Hide \"Expiration date\""
+msgstr ""
+
+#: includes/class-workscout-core-fields.php:178
+msgid "Hide the Listing Expiry Date  from job details"
+msgstr ""
+
+#: includes/class-workscout-core-fields.php:262
+#: includes/class-workscout-core-fields.php:303
+msgid "Category Icon"
+msgstr ""
+
+#: includes/class-workscout-core-fields.php:277
+#: includes/class-workscout-core-fields.php:329
+msgid "Icon will be displayed in categories grid view"
+msgstr ""
+
+#: includes/class-workscout-core-fields.php:280
+#: includes/class-workscout-core-fields.php:333
+msgid "Custom image icon for category"
+msgstr ""
+
+#: includes/class-workscout-core-fields.php:282
+#: includes/class-workscout-core-fields.php:336
+msgid "This is alternative for font based icons"
+msgstr ""
+
+#: includes/class-workscout-core-fields.php:285
+#: includes/class-workscout-core-fields.php:340
+msgid "Background image for category header"
+msgstr ""
+
+#: includes/class-workscout-core-fields.php:287
+msgid ""
+"Similar to the single jobs you can add image to the category header. It "
+"should be 1920px wide"
+msgstr ""
+
+#: includes/class-workscout-core-fields.php:343
+msgid ""
+"Similar to the single jobs you can add image to the category header. Put "
+"here direct link to the image. It should be 1920px wide"
+msgstr ""
+
+#: includes/class-workscout-core-messages.php:156
+#: includes/class-workscout-core-messages.php:195
+msgid "Your message was successfully sent"
+msgstr ""
+
+#: includes/class-workscout-core-messages.php:159
+#: includes/class-workscout-core-messages.php:198
+msgid "Message couldn't be send"
+msgstr ""
+
+#: includes/class-workscout-core-messages.php:173
+msgid "Empty message"
+msgstr ""
+
+#: includes/class-workscout-core-messages.php:181
+msgid "Whoops, we have a problem"
+msgstr ""
+
+#: includes/class-workscout-core-messages.php:327
+msgid "Reservation for "
+msgstr ""
+
+#: includes/class-workscout-core-messages.php:450
+msgid "You need to be signed in to manage your messages."
+msgstr ""
+
+#: includes/class-workscout-core-messages.php:477
+msgid "Conversation was removed"
+msgstr ""
+
+#: includes/class-workscout-core-messages.php:479
+msgid "Conversation couldn't be removed."
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:162
+#: includes/class-workscout-core.php:323
+msgid "Sending user info, please wait..."
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:176
+#: includes/class-workscout-core-registration.php:229
+msgid "Session token has expired, please reload the page and try again"
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:188
+#: includes/class-workscout-core-registration.php:1146
+msgid "You do have an email address, right?"
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:192
+#: includes/class-workscout-core-registration.php:1149
+msgid "You need to enter a password to login."
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:199
+msgid "Wrong username or password."
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:205
+msgid "Login successful, redirecting..."
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:219
+msgid "Registration is disabled"
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:241
+msgid "Please fill email address"
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:251
+msgid "This is not valid email address"
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:273
+msgid "Please provide your username"
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:298
+msgid "Please provide password"
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:311
+msgid "Please accept Privacy Policy"
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:345
+msgid "Wrong reCAPTCHA"
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:353
+#: includes/class-workscout-core-registration.php:384
+msgid "You forgot about reCAPTCHA"
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:376
+msgid "reCAPTCHA was not validated"
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:406
+msgid "You have been successfuly registered, you will be logged in a moment."
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:408
+msgid ""
+"You have been successfuly registered,  you will be logged in a moment. "
+"Please check your email for the password."
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:412
+msgid ""
+"You have been successfuly registered, you can <a href=\"#\" class=\"modal-"
+"login-link\">login now</a>."
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:414
+msgid ""
+"You have been successfuly registered. Please check your email for the "
+"password."
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:521
+#, php-format
+msgid "%s has been deleted"
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:543
+#: templates/my-account.php:57
+msgid "Phone"
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:544
+msgid "Twitter "
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:545
+msgid "Facebook URL"
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:547
+#: templates/my-account.php:99
+msgid "Linkedin"
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:548
+#: templates/my-account.php:103
+msgid "Instagram"
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:549
+#: templates/my-account.php:106
+msgid "YouTube"
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:550
+#: templates/my-account.php:112
+msgid "Skype"
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:551
+#: templates/my-account.php:109
+msgid "WhatsApp"
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:737
+msgid "Workscout_Core Avatar"
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:754
+msgid "Upload Image"
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:755
+msgid "This avatar will be displayed instead of default one"
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:761
+msgid "Extra profile information"
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:771
+msgid "This text will be displayed below your Name on Agents list"
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:830
+msgid "You are already signed in."
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:851
+msgid "Password has been changed."
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:857
+msgid "A confirmation link has been sent to your email address."
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:862
+msgid "Invalid password reset link."
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:875
+msgid "You need to be signed in to access your listings."
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:902
+msgid "You need to be signed in to manage your packages."
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:1028
+msgid "Please set a Lost Password Page in Workscout_Core Options -> Pages"
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:1140
+msgid "This email is already registered"
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:1143
+msgid "This username already exists"
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:1153
+msgid ""
+"We don't have any users with that email address. Maybe you used a different "
+"one when signing up?"
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:1159
+#, php-format
+msgid ""
+"The password you entered wasn't quite right. <a href='%s'>Did you forget "
+"your password</a>?"
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:1168
+msgid "An unknown error occurred. Please try again later."
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:1523
+msgid "employer"
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:1526
+msgid "candidate"
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:1528
+#, php-format
+msgid "New user registration on your site %s:"
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:1529
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:1530
+#, php-format
+msgid "E-mail: %s"
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:1531
+#, php-format
+msgid "Role: %s"
+msgstr ""
+
+#: includes/class-workscout-core-registration.php:1533
+#, php-format
+msgid "[%s] New User Registration"
+msgstr ""
+
+#: includes/class-workscout-core-wpjm-settings.php:95
+msgid "Before number"
+msgstr ""
+
+#: includes/class-workscout-core-wpjm-settings.php:96
+msgid "After number"
+msgstr ""
+
+#: includes/class-workscout-core-wpjm-settings.php:102
+#: includes/class-workscout-core-wpjm-settings.php:103
+msgid "Enable Hours per week field"
+msgstr ""
+
+#: includes/class-workscout-core-wpjm-settings.php:104
+msgid ""
+"Enabling this option will show a Hours per week field in Post a Job page."
+msgstr ""
+
+#: includes/class-workscout-core-wpjm-settings.php:110
+msgid "\"Salaries\" functionality"
+msgstr ""
+
+#: includes/class-workscout-core-wpjm-settings.php:111
+#: includes/class-workscout-core-wpjm-settings.php:119
+msgid "Enable filter option on Jobs page"
+msgstr ""
+
+#: includes/class-workscout-core-wpjm-settings.php:112
+msgid ""
+"Enabling this option will show a salary range filter in sidebar on Jobs page "
+"and salary fields on Job posting."
+msgstr ""
+
+#: includes/class-workscout-core-wpjm-settings.php:118
+msgid "\"Rates\" functionality"
+msgstr ""
+
+#: includes/class-workscout-core-wpjm-settings.php:120
+msgid ""
+"Enabling this option will show a rate range filter in sidebar on Jobs page "
+"and rate fields on Job posting."
+msgstr ""
+
+#: includes/class-workscout-core-wpjm-settings.php:127
+msgid "Location field on Jobs page"
+msgstr ""
+
+#: includes/class-workscout-core-wpjm-settings.php:128
+msgid "Show location search field on Jobs page sidebar"
+msgstr ""
+
+#: includes/class-workscout-core-wpjm-settings.php:129
+#: includes/class-workscout-core-wpjm-settings.php:137
+#: includes/class-workscout-core-wpjm-settings.php:153
+msgid "Uncheck to hide"
+msgstr ""
+
+#: includes/class-workscout-core-wpjm-settings.php:135
+msgid "Job Types field on Jobs page"
+msgstr ""
+
+#: includes/class-workscout-core-wpjm-settings.php:136
+msgid "Show Job Types field on Jobs page sidebar"
+msgstr ""
+
+#: includes/class-workscout-core-wpjm-settings.php:143
+msgid "My Bookmarks Page"
+msgstr ""
+
+#: includes/class-workscout-core-wpjm-settings.php:144
+msgid ""
+"Select the page where you've used the [my_bookmarks]  shortcode. This "
+"requires Bookmarks add-on"
+msgstr ""
+
+#: includes/class-workscout-core-wpjm-settings.php:151
+msgid "Job Tags filter on Jobs page"
+msgstr ""
+
+#: includes/class-workscout-core-wpjm-settings.php:152
+msgid "Show Job Tags filter on Jobs page sidebar"
+msgstr ""
+
+#: includes/class-workscout-core-wpjm-settings.php:170
+msgid "Filter Resumes by Rate"
+msgstr ""
+
+#: includes/class-workscout-core-wpjm-settings.php:171
+msgid "Enable filter option on Resumes page"
+msgstr ""
+
+#: includes/class-workscout-core-wpjm-settings.php:172
+msgid ""
+"Enabling this option will show a salary range filter in sidebar on Resumes "
+"page."
+msgstr ""
+
+#: includes/class-workscout-core-wpjm-settings.php:179
+#: includes/class-workscout-core-wpjm-settings.php:180
+msgid "Enable comments on Resumes"
+msgstr ""
+
+#: includes/class-workscout-core-wpjm-settings.php:181
+msgid "Check to enable comments section on Resumes."
+msgstr ""
+
+#: includes/class-workscout-core.php:338
+msgid "Category Title"
+msgstr ""
+
+#: includes/class-workscout-core.php:435
+msgid "Once every 5 minutes"
+msgstr ""
+
+#: includes/class-workscout-core.php:440
+msgid "Once every 30 minutes"
+msgstr ""
+
+#: includes/class-workscout-core.php:461
+msgid "Single listing sidebar"
+msgstr ""
+
+#: includes/class-workscout-core.php:463 includes/class-workscout-core.php:473
+msgid "Add widgets here."
+msgstr ""
+
+#: includes/class-workscout-core.php:471
+msgid "Listings sidebar"
+msgstr ""
+
+#: includes/class-workscout-core.php:495
+msgid "Please configure Google Maps API key to use all WorkScout features."
+msgstr ""
+
+#: includes/class-workscout-core.php:495 includes/class-workscout-core.php:506
+msgid "Check here how to do it."
+msgstr ""
+
+#: includes/class-workscout-core.php:506
+msgid ""
+"Please add unrestricted Google Maps API key to Job Listings Settings to "
+"geocode jobs - that is required to show them on maps and search by locations."
+msgstr ""
+
+#: includes/class-workscout-core.php:596
+msgid "Owner"
+msgstr ""
+
+#: includes/class-workscout-core.php:634
+msgid "Guest"
+msgstr ""
+
+#: shortcodes/box_job_categories.php:165
+#: shortcodes/box_resume_categories.php:156
+msgid "Browse All Categories"
+msgstr ""
+
+#: shortcodes/imagebox.php:42 vc_map/jobs.php:23 vc_map/jobs.php:105
+#: vc_map/pricing_table.php:22 vc_map/spotlight_jobs.php:27
+#: vc_map/spotlight_jobs.php:143 vc_map/spotlight_resumes.php:27
+#: vc_map/spotlight_resumes.php:116
+msgid "Featured"
+msgstr ""
+
+#: shortcodes/imagebox.php:48 vc_map/counterbox.php:55
+msgid "Jobs"
+msgstr ""
+
+#: shortcodes/jobs.php:91
+msgid "Load more listings"
+msgstr ""
+
+#: shortcodes/jobs.php:134
+msgid "Show More Jobs"
+msgstr ""
+
+#: shortcodes/jobs_searchbox.php:64
+msgid "What job are you looking for?"
+msgstr ""
+
+#: shortcodes/jobs_searchbox.php:65
+msgid "Job title, Skill, Industry"
+msgstr ""
+
+#: shortcodes/jobs_searchbox.php:72
+msgid "Where?"
+msgstr ""
+
+#: shortcodes/jobs_searchbox.php:76 shortcodes/resumes_searchbox.php:45
+msgid "All Regions"
+msgstr ""
+
+#: shortcodes/jobs_searchbox.php:90
+msgid "City, State or Zip"
+msgstr ""
+
+#: shortcodes/jobs_searchbox.php:92
+msgid "Find My Location"
+msgstr ""
+
+#: shortcodes/jobs_searchbox.php:93
+msgid "type and hit enter"
+msgstr ""
+
+#: shortcodes/jobs_searchbox.php:104 vc_map/jobs.php:69
+msgid "Categories"
+msgstr ""
+
+#: shortcodes/jobs_searchbox.php:116
+msgid "All Categories"
+msgstr ""
+
+#: shortcodes/jobs_searchbox.php:128
+msgid "Search"
+msgstr ""
+
+#: shortcodes/jobs_searchbox.php:144
+msgid "Need more search options?"
+msgstr ""
+
+#: shortcodes/jobs_searchbox.php:145
+msgid "Advanced Search"
+msgstr ""
+
+#: shortcodes/latest_from_blog.php:216
+msgid "By"
+msgstr ""
+
+#: shortcodes/latest_from_blog.php:232
+msgid "Read More"
+msgstr ""
+
+#: shortcodes/pricing_woo_tables.php:94
+msgid "Unlimited number of jobs"
+msgstr ""
+
+#: shortcodes/pricing_woo_tables.php:98
+msgid "This plan includes "
+msgstr ""
+
+#: shortcodes/pricing_woo_tables.php:98
+#, php-format
+msgid "%d job"
+msgid_plural "%s jobs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: shortcodes/pricing_woo_tables.php:102
+msgid "Jobs are posted "
+msgstr ""
+
+#: shortcodes/pricing_woo_tables.php:102
+#, php-format
+msgid "for %s day"
+msgid_plural "for %s days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: shortcodes/pricing_woo_tables.php:114
+msgid "Add to cart"
+msgstr ""
+
+#: shortcodes/resumes.php:65 shortcodes/resumes.php:98
+#: shortcodes/simple_resumes.php:61
+msgid "Load more resumes"
+msgstr ""
+
+#: shortcodes/resumes_searchbox.php:39
+msgid "Search freelancer services (e.g. logo design)"
+msgstr ""
+
+#: shortcodes/resumes_searchbox.php:58
+msgid "city, province or region"
+msgstr ""
+
+#: shortcodes/resumes_searchbox.php:72
+#, php-format
+msgid " Or browse resumes by <a href=\"%s\">category</a>"
+msgstr ""
+
+#: shortcodes/resumes_searchbox.php:80
+#, php-format
+msgid "We have %s resumes in our database"
+msgstr ""
+
+#: shortcodes/spotlight_jobs.php:174 shortcodes/spotlight_resumes.php:135
+#: workscout-core-template-functions.php:280
+#: workscout-core-template-functions.php:301
+msgid "/ hour"
+msgstr ""
+
+#: shortcodes/spotlight_jobs.php:222
+msgid "Closed"
+msgstr ""
+
+#: shortcodes/spotlight_jobs.php:222
+msgid "Closes"
+msgstr ""
+
+#: shortcodes/spotlight_jobs.php:229
+msgid "Expires"
+msgstr ""
+
+#: shortcodes/spotlight_jobs.php:243
+msgid "Apply For This Job"
+msgstr ""
+
+#: shortcodes/spotlight_resumes.php:176
+msgid "Contact Candidate"
+msgstr ""
+
+#: templates/account/dashboard.php:22
+msgid "Active Job Listings"
+msgstr ""
+
+#: templates/account/dashboard.php:34
+msgid "Active Resumes"
+msgstr ""
+
+#: templates/account/dashboard.php:51
+msgid "Total Jobs Views"
+msgstr ""
+
+#: templates/account/dashboard.php:65
+msgid ""
+"\n"
+"\t\t\t\tResumes Views"
+msgstr ""
+
+#: templates/account/dashboard.php:110
+msgid "Your Applications"
+msgstr ""
+
+#: templates/account/dashboard.php:112
+msgid "Total Applications"
+msgstr ""
+
+#: templates/account/dashboard.php:135
+msgid "Bookmarks"
+msgstr ""
+
+#: templates/account/dashboard.php:137
+msgid "Times Bookmarked"
+msgstr ""
+
+#: templates/account/dashboard.php:153
+msgid "Recent Activities"
+msgstr ""
+
+#: templates/account/dashboard.php:168
+msgid "Clear All"
+msgstr ""
+
+#: templates/account/dashboard.php:178
+msgid "Your Resume Packages"
+msgstr ""
+
+#: templates/account/dashboard.php:180
+msgid "Your Listing Packages"
+msgstr ""
+
+#: templates/account/dashboard.php:197
+#, php-format
+msgid "You have %1$s listings posted out of %2$d"
+msgid_plural "You have %1$s listings posted out of %2$d"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/account/dashboard.php:199
+#, php-format
+msgid "You have %s listings posted"
+msgid_plural "You have %s listings posted"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/account/dashboard.php:203
+#, php-format
+msgid "listed for %s day"
+msgid_plural "listed for %s days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/account/dashboard.php:213
+msgid "You don't have any packages yet."
+msgstr ""
+
+#: templates/account/logged_section.php:16
+msgid "Hi,"
+msgstr ""
+
+#: templates/account/logged_section.php:23
+#: templates/account/login-section.php:28
+msgid "Dashboard"
+msgstr ""
+
+#: templates/account/logged_section.php:28
+msgid "Messages"
+msgstr ""
+
+#: templates/account/logged_section.php:38
+msgid "Logout"
+msgstr ""
+
+#: templates/account/login-form.php:20
+#: templates/account/registration-form.php:40
+msgid "Username"
+msgstr ""
+
+#: templates/account/login-form.php:27
+#: templates/account/registration-form.php:48
+msgid "Password"
+msgstr ""
+
+#: templates/account/login-form.php:32
+msgid "Remember Me"
+msgstr ""
+
+#: templates/account/login-form.php:36 templates/account/login-section.php:68
+msgid "Login"
+msgstr ""
+
+#: templates/account/login-form.php:39
+msgid "Don't have an account?"
+msgstr ""
+
+#: templates/account/login-form.php:39
+msgid "Sign up now"
+msgstr ""
+
+#: templates/account/login-form.php:42
+msgid "Lost Password?"
+msgstr ""
+
+#: templates/account/login-form.php:52 templates/account/login-form.php:60
+#: templates/account/registration-form.php:127
+#: templates/account/registration-form.php:135
+msgid "Sign In with Social Network"
+msgstr ""
+
+#: templates/account/login-section.php:33
+msgid "Log Out"
+msgstr ""
+
+#: templates/account/login-section.php:46
+#: templates/account/login-section.php:51
+#: templates/account/login-section.php:60
+msgid "Sign Up"
+msgstr ""
+
+#: templates/account/login-section.php:47
+#: templates/account/login-section.php:52
+msgid "Log In"
+msgstr ""
+
+#: templates/account/lost_password.php:28
+msgid "Email Address:"
+msgstr ""
+
+#: templates/account/lost_password.php:34
+#: templates/account/reset_password.php:37
+msgid "Reset Password"
+msgstr ""
+
+#: templates/account/messages.php:11
+msgid "Inbox"
+msgstr ""
+
+#: templates/account/messages.php:47 templates/account/single_message.php:82
+msgid "Unread"
+msgstr ""
+
+#: templates/account/messages.php:49
+msgid "ago"
+msgstr ""
+
+#: templates/account/messages.php:60
+msgid "You don't have any messages yet"
+msgstr ""
+
+#: templates/account/owner_only.php:4
+msgid "Sorry, you can't view this page, please register account to get access."
+msgstr ""
+
+#: templates/account/registration-form.php:23
+msgid "Candidate"
+msgstr ""
+
+#: templates/account/registration-form.php:28
+msgid "Employer"
+msgstr ""
+
+#: templates/account/registration-form.php:57 templates/my-account.php:51
+msgid "First Name"
+msgstr ""
+
+#: templates/account/registration-form.php:64 templates/my-account.php:54
+msgid "Last Name"
+msgstr ""
+
+#: templates/account/registration-form.php:72
+msgid "Email"
+msgstr ""
+
+#: templates/account/registration-form.php:98
+msgid "I agree to the"
+msgstr ""
+
+#: templates/account/registration-form.php:98
+msgid "Privacy Policy"
+msgstr ""
+
+#: templates/account/registration-form.php:104
+msgid "Please leave this field empty"
+msgstr ""
+
+#: templates/account/registration-form.php:111
+msgid "Register Your Account"
+msgstr ""
+
+#: templates/account/registration-form.php:116
+msgid "Password will be generated and sent to your email address."
+msgstr ""
+
+#: templates/account/reset_password.php:25
+msgid "New password"
+msgstr ""
+
+#: templates/account/reset_password.php:29
+msgid "Repeat new password"
+msgstr ""
+
+#: templates/account/single_message.php:20
+msgid "This message does not exists."
+msgstr ""
+
+#: templates/account/single_message.php:44
+msgid "Delete Conversation"
+msgstr ""
+
+#: templates/account/single_message.php:122
+msgid "Your Message"
+msgstr ""
+
+#: templates/account/single_message.php:125
+msgid "Send Message"
+msgstr ""
+
+#: templates/account/single_message.php:136
+msgid "It's not your converstation!"
+msgstr ""
+
+#: templates/emails/footer.php:20
+msgid "Have a question?"
+msgstr ""
+
+#: templates/my-account.php:9
+msgid "Your profile has been updated."
+msgstr ""
+
+#: templates/my-account.php:15
+msgid "You must be logged in to edit your profile."
+msgstr ""
+
+#: templates/my-account.php:24
+msgid "Profile Details"
+msgstr ""
+
+#: templates/my-account.php:36
+msgid "Avatar"
+msgstr ""
+
+#: templates/my-account.php:37
+msgid "Change Avatar"
+msgstr ""
+
+#: templates/my-account.php:65
+msgid "The Email you entered is not valid or empty. Please try again."
+msgstr ""
+
+#: templates/my-account.php:68
+msgid "This email is already used by another user, please try a different one."
+msgstr ""
+
+#: templates/my-account.php:80
+msgid "E-mail"
+msgstr ""
+
+#: templates/my-account.php:83
+msgid "About me"
+msgstr ""
+
+#: templates/my-account.php:92
+msgid "Twitter"
+msgstr ""
+
+#: templates/my-account.php:95
+msgid "Facebook"
+msgstr ""
+
+#: templates/my-account.php:119
+msgid "Submit"
+msgstr ""
+
+#: templates/my-account.php:119 templates/my-account.php:189
+msgid "Save Changes"
+msgstr ""
+
+#: templates/my-account.php:135
+msgid "Change Password"
+msgstr ""
+
+#: templates/my-account.php:143
+msgid "Your password should be at least 12 random characters long to be safe"
+msgstr ""
+
+#: templates/my-account.php:148
+msgid "Your password has been updated."
+msgstr ""
+
+#: templates/my-account.php:156
+msgid "Your current password does not match. Please retry."
+msgstr ""
+
+#: templates/my-account.php:159
+msgid "The passwords do not match. Please retry.."
+msgstr ""
+
+#: templates/my-account.php:162
+msgid "A bit short as a password, don't you think?"
+msgstr ""
+
+#: templates/my-account.php:165
+msgid "Password may not contain the character \"\\\" (backslash)."
+msgstr ""
+
+#: templates/my-account.php:168
+msgid "An error occurred while updating your profile. Please retry."
+msgstr ""
+
+#: templates/my-account.php:180
+msgid "Current Password"
+msgstr ""
+
+#: templates/my-account.php:183
+msgid "New Password"
+msgstr ""
+
+#: templates/my-account.php:186
+msgid "Confirm New Password"
+msgstr ""
+
+#: templates/my-account.php:203
+msgid "Delete Your Account"
+msgstr ""
+
+#: vc_map/actionbox.php:9
+msgid "Action Box"
+msgstr ""
+
+#: vc_map/actionbox.php:12
+msgid "Call-to-action box"
+msgstr ""
+
+#: vc_map/actionbox.php:13 vc_map/actionbox_centered.php:13 vc_map/box.php:9
+#: vc_map/box_job_categories.php:23 vc_map/box_job_categories_full.php:17
+#: vc_map/box_resume_categories.php:17 vc_map/box_resume_categories_full.php:18
+#: vc_map/carousel.php:10 vc_map/counterbox.php:14 vc_map/counterbox.php:40
+#: vc_map/flip_banner.php:14 vc_map/headline.php:15 vc_map/iconbox.php:13
+#: vc_map/imagebox.php:36 vc_map/infobanner.php:17 vc_map/jobs.php:9
+#: vc_map/map.php:10 vc_map/pricing_table.php:14
+#: vc_map/pricing_woo_tables.php:10 vc_map/recent_blog.php:14
+#: vc_map/search_jobs.php:15 vc_map/spotlight_jobs.php:13
+#: vc_map/spotlight_resumes.php:13 vc_map/testimonials_carousel.php:13
+#: vc_map/testimonials_wide.php:13
+msgid "WorkScout"
+msgstr ""
+
+#: vc_map/actionbox.php:17 vc_map/actionbox_centered.php:17
+#: vc_map/box_job_categories_full.php:31
+#: vc_map/box_resume_categories_full.php:32 vc_map/search_jobs.php:20
+msgid "Wide version (use only on full-width page in full row"
+msgstr ""
+
+#: vc_map/actionbox.php:19 vc_map/actionbox_centered.php:19
+#: vc_map/box_job_categories_full.php:33
+#: vc_map/box_resume_categories_full.php:34 vc_map/search_jobs.php:22
+msgid ""
+"Setting this to wide on page with sidebar or not in the maximum wide "
+"container will cause layout break."
+msgstr ""
+
+#: vc_map/actionbox.php:21 vc_map/actionbox_centered.php:21
+#: vc_map/box_job_categories_full.php:35
+#: vc_map/box_resume_categories_full.php:36 vc_map/pricing_table.php:21
+#: vc_map/search_jobs.php:24
+msgid "Standard"
+msgstr ""
+
+#: vc_map/actionbox.php:22 vc_map/actionbox_centered.php:22
+#: vc_map/box_job_categories_full.php:36
+#: vc_map/box_resume_categories_full.php:37 vc_map/search_jobs.php:25
+msgid "Wide"
+msgstr ""
+
+#: vc_map/actionbox.php:28 vc_map/actionbox_centered.php:28
+#: vc_map/box_job_categories_full.php:25
+#: vc_map/box_resume_categories_full.php:26 vc_map/counterbox.php:44
+#: vc_map/headline.php:19 vc_map/iconbox.php:17 vc_map/infobanner.php:22
+#: vc_map/jobs.php:24 vc_map/pricing_table.php:34
+#: vc_map/pricing_woo_tables.php:54 vc_map/recent_blog.php:53
+#: vc_map/spotlight_jobs.php:31 vc_map/spotlight_jobs.php:47
+#: vc_map/spotlight_resumes.php:31 vc_map/spotlight_resumes.php:47
+#: vc_map/testimonials_carousel.php:47 vc_map/testimonials_wide.php:31
+msgid "Title"
+msgstr ""
+
+#: vc_map/actionbox.php:35 vc_map/actionbox_centered.php:41
+#: vc_map/iconbox.php:30 vc_map/infobanner.php:35
+msgid "URL"
+msgstr ""
+
+#: vc_map/actionbox.php:37 vc_map/infobanner.php:37
+msgid "Where button will link."
+msgstr ""
+
+#: vc_map/actionbox.php:41 vc_map/infobanner.php:41 vc_map/pricing_table.php:75
+msgid "Button text"
+msgstr ""
+
+#: vc_map/actionbox.php:43 vc_map/infobanner.php:43
+msgid "Button text - leave empty to hide button."
+msgstr ""
+
+#: vc_map/actionbox.php:47 vc_map/actionbox_centered.php:47
+#: vc_map/box_job_categories_full.php:123
+#: vc_map/box_resume_categories_full.php:123 vc_map/carousel.php:21
+#: vc_map/counterbox.php:27 vc_map/counterbox.php:92 vc_map/flip_banner.php:61
+#: vc_map/iconbox.php:59 vc_map/imagebox.php:80 vc_map/infobanner.php:55
+#: vc_map/map.php:34 vc_map/pricing_table.php:81
+#: vc_map/pricing_woo_tables.php:15 vc_map/recent_blog.php:109
+#: vc_map/search_jobs.php:41 vc_map/testimonials_carousel.php:82
+#: vc_map/testimonials_wide.php:72
+msgid "From Visual Composer"
+msgstr ""
+
+#: vc_map/actionbox_centered.php:9
+msgid "Action Box Centered"
+msgstr ""
+
+#: vc_map/actionbox_centered.php:12
+msgid "(Deprecated)"
+msgstr ""
+
+#: vc_map/actionbox_centered.php:35 vc_map/headline.php:25
+msgid "Subtitle"
+msgstr ""
+
+#: vc_map/actionbox_centered.php:43
+msgid "Where it will link."
+msgstr ""
+
+#: vc_map/box.php:6
+msgid "Notification box"
+msgstr ""
+
+#: vc_map/box.php:13 vc_map/iconbox.php:24 vc_map/infobanner.php:29
+#: vc_map/pricing_table.php:63
+msgid "Content"
+msgstr ""
+
+#: vc_map/box.php:15 vc_map/iconbox.php:26
+msgid "Enter message content."
+msgstr ""
+
+#: vc_map/box.php:20
+msgid "Box type"
+msgstr ""
+
+#: vc_map/box_job_categories.php:19
+msgid "Job categories grid"
+msgstr ""
+
+#: vc_map/box_job_categories.php:22 vc_map/box_resume_categories.php:16
+msgid "Grid with icons"
+msgstr ""
+
+#: vc_map/box_job_categories.php:29 vc_map/box_resume_categories.php:22
+msgid "Empty categories.."
+msgstr ""
+
+#: vc_map/box_job_categories.php:41 vc_map/box_resume_categories.php:34
+msgid "Show only parent categories"
+msgstr ""
+
+#: vc_map/box_job_categories.php:54 vc_map/box_job_categories_full.php:55
+#: vc_map/box_resume_categories.php:47 vc_map/box_resume_categories_full.php:56
+#: vc_map/search_jobs.php:30
+msgid "Show jobs counter"
+msgstr ""
+
+#: vc_map/box_job_categories.php:78 vc_map/box_resume_categories.php:99
+msgid "Layout of category boxes"
+msgstr ""
+
+#: vc_map/box_job_categories.php:94 vc_map/box_job_categories_full.php:92
+#: vc_map/box_resume_categories.php:58 vc_map/box_resume_categories_full.php:92
+#: vc_map/pricing_woo_tables.php:47 vc_map/recent_blog.php:46
+#: vc_map/spotlight_jobs.php:24 vc_map/spotlight_resumes.php:24
+#: vc_map/testimonials_carousel.php:40 vc_map/testimonials_wide.php:24
+msgid "Order by"
+msgstr ""
+
+#: vc_map/box_job_categories.php:97 vc_map/box_job_categories_full.php:96
+#: vc_map/box_resume_categories.php:61 vc_map/box_resume_categories_full.php:95
+#: vc_map/jobs.php:26
+msgid "Name"
+msgstr ""
+
+#: vc_map/box_job_categories.php:98 vc_map/box_job_categories_full.php:97
+#: vc_map/box_resume_categories.php:62 vc_map/box_resume_categories_full.php:96
+#: vc_map/jobs.php:25 vc_map/pricing_woo_tables.php:52
+#: vc_map/recent_blog.php:51 vc_map/spotlight_jobs.php:29
+#: vc_map/spotlight_resumes.php:29 vc_map/testimonials_carousel.php:45
+#: vc_map/testimonials_wide.php:29
+msgid "ID"
+msgstr ""
+
+#: vc_map/box_job_categories.php:99 vc_map/box_job_categories_full.php:98
+#: vc_map/box_resume_categories.php:63 vc_map/box_resume_categories_full.php:97
+msgid "Count"
+msgstr ""
+
+#: vc_map/box_job_categories.php:100 vc_map/box_job_categories_full.php:99
+#: vc_map/box_resume_categories.php:64 vc_map/box_resume_categories_full.php:98
+msgid "Slug"
+msgstr ""
+
+#: vc_map/box_job_categories.php:101 vc_map/box_job_categories_full.php:100
+#: vc_map/box_resume_categories.php:65 vc_map/box_resume_categories_full.php:99
+msgid "None"
+msgstr ""
+
+#: vc_map/box_job_categories.php:108 vc_map/box_job_categories_full.php:106
+#: vc_map/box_resume_categories.php:72
+#: vc_map/box_resume_categories_full.php:106 vc_map/jobs.php:35
+#: vc_map/pricing_woo_tables.php:61 vc_map/recent_blog.php:62
+#: vc_map/spotlight_jobs.php:38 vc_map/spotlight_resumes.php:38
+#: vc_map/testimonials_carousel.php:54 vc_map/testimonials_wide.php:38
+msgid "Order"
+msgstr ""
+
+#: vc_map/box_job_categories.php:111 vc_map/box_job_categories_full.php:110
+#: vc_map/box_resume_categories.php:75
+#: vc_map/box_resume_categories_full.php:109 vc_map/jobs.php:38
+#: vc_map/pricing_woo_tables.php:64 vc_map/recent_blog.php:66
+#: vc_map/spotlight_jobs.php:41 vc_map/spotlight_resumes.php:41
+#: vc_map/testimonials_carousel.php:57 vc_map/testimonials_wide.php:41
+msgid "Descending"
+msgstr ""
+
+#: vc_map/box_job_categories.php:112 vc_map/box_job_categories_full.php:111
+#: vc_map/box_resume_categories.php:76
+#: vc_map/box_resume_categories_full.php:110 vc_map/jobs.php:39
+#: vc_map/pricing_woo_tables.php:65 vc_map/recent_blog.php:67
+#: vc_map/spotlight_jobs.php:42 vc_map/spotlight_resumes.php:42
+#: vc_map/testimonials_carousel.php:58 vc_map/testimonials_wide.php:42
+msgid "Ascending"
+msgstr ""
+
+#: vc_map/box_job_categories.php:119 vc_map/box_job_categories_full.php:116
+#: vc_map/box_resume_categories.php:83
+#: vc_map/box_resume_categories_full.php:116 vc_map/pricing_woo_tables.php:40
+#: vc_map/recent_blog.php:20 vc_map/spotlight_jobs.php:17
+#: vc_map/spotlight_resumes.php:17 vc_map/testimonials_carousel.php:33
+#: vc_map/testimonials_wide.php:17
+msgid "Total items"
+msgstr ""
+
+#: vc_map/box_job_categories.php:122 vc_map/box_resume_categories.php:86
+#: vc_map/recent_blog.php:24 vc_map/spotlight_jobs.php:20
+#: vc_map/spotlight_resumes.php:20 vc_map/testimonials_carousel.php:36
+#: vc_map/testimonials_wide.php:20
+msgid ""
+"Set max limit for items in grid or enter -1 to display all (limited to 1000)."
+msgstr ""
+
+#: vc_map/box_job_categories.php:127 vc_map/box_resume_categories.php:91
+msgid "\"Browse categories\" button"
+msgstr ""
+
+#: vc_map/box_job_categories.php:129
+msgid "If checked the button will be added to the end of the grid."
+msgstr ""
+
+#: vc_map/box_job_categories.php:130
+msgid "Yes"
+msgstr ""
+
+#: vc_map/box_job_categories.php:135 vc_map/box_resume_categories.php:116
+msgid "Include only"
+msgstr ""
+
+#: vc_map/box_job_categories.php:137 vc_map/box_job_categories.php:147
+#: vc_map/spotlight_jobs.php:72
+msgid "Add job categories."
+msgstr ""
+
+#: vc_map/box_job_categories.php:145 vc_map/box_resume_categories.php:126
+msgid "Exclude only"
+msgstr ""
+
+#: vc_map/box_job_categories.php:156 vc_map/box_resume_categories.php:137
+msgid "Child of"
+msgstr ""
+
+#: vc_map/box_job_categories_full.php:13
+msgid "Job categories list"
+msgstr ""
+
+#: vc_map/box_job_categories_full.php:16
+#: vc_map/box_resume_categories_full.php:17
+msgid "Categories as list"
+msgstr ""
+
+#: vc_map/box_job_categories_full.php:27
+#: vc_map/box_resume_categories_full.php:28 vc_map/headline.php:21
+#: vc_map/iconbox.php:19 vc_map/spotlight_jobs.php:49
+#: vc_map/spotlight_resumes.php:49
+msgid "Enter text which will be used as title"
+msgstr ""
+
+#: vc_map/box_job_categories_full.php:43
+#: vc_map/box_resume_categories_full.php:44
+msgid "Hide empty"
+msgstr ""
+
+#: vc_map/box_job_categories_full.php:67
+#: vc_map/box_resume_categories_full.php:68
+msgid "Type "
+msgstr ""
+
+#: vc_map/box_job_categories_full.php:81
+#: vc_map/box_resume_categories_full.php:81
+msgid "Parent id"
+msgstr ""
+
+#: vc_map/box_job_categories_full.php:119
+#: vc_map/box_resume_categories_full.php:119
+msgid "Set max limit for items  (limited to 1000)."
+msgstr ""
+
+#: vc_map/box_resume_categories.php:13
+msgid "Resumes categories grid"
+msgstr ""
+
+#: vc_map/box_resume_categories.php:93
+msgid "The button will be added to the end of the grid."
+msgstr ""
+
+#: vc_map/box_resume_categories.php:118 vc_map/box_resume_categories.php:128
+msgid "Add resume categories."
+msgstr ""
+
+#: vc_map/box_resume_categories_full.php:14
+msgid "Resumes categories list"
+msgstr ""
+
+#: vc_map/carousel.php:6
+msgid "Client logos carousel"
+msgstr ""
+
+#: vc_map/carousel.php:9
+msgid "Carousel with logos"
+msgstr ""
+
+#: vc_map/carousel.php:14
+msgid "Clients logos"
+msgstr ""
+
+#: vc_map/carousel.php:17
+msgid "Select images from media library."
+msgstr ""
+
+#: vc_map/carousel.php:28 vc_map/spotlight_jobs.php:127
+#: vc_map/spotlight_resumes.php:91 vc_map/testimonials_carousel.php:17
+msgid "Auto play"
+msgstr ""
+
+#: vc_map/carousel.php:31 vc_map/spotlight_jobs.php:130
+#: vc_map/spotlight_resumes.php:94 vc_map/spotlight_resumes.php:103
+#: vc_map/testimonials_carousel.php:20
+msgid "Off"
+msgstr ""
+
+#: vc_map/carousel.php:32 vc_map/spotlight_jobs.php:131
+#: vc_map/spotlight_resumes.php:95 vc_map/spotlight_resumes.php:104
+#: vc_map/testimonials_carousel.php:21
+msgid "On"
+msgstr ""
+
+#: vc_map/carousel.php:37 vc_map/spotlight_jobs.php:136
+#: vc_map/spotlight_resumes.php:109 vc_map/testimonials_carousel.php:26
+msgid "Delay"
+msgstr ""
+
+#: vc_map/carousel.php:39 vc_map/spotlight_jobs.php:138
+#: vc_map/spotlight_resumes.php:111 vc_map/testimonials_carousel.php:28
+msgid "Autoplay delay value"
+msgstr ""
+
+#: vc_map/counterbox.php:10
+msgid "Counters wraper"
+msgstr ""
+
+#: vc_map/counterbox.php:21
+msgid "Extra class name"
+msgstr ""
+
+#: vc_map/counterbox.php:23
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: vc_map/counterbox.php:36
+msgid "Count up box"
+msgstr ""
+
+#: vc_map/counterbox.php:39
+msgid "Box with animated number's counting"
+msgstr ""
+
+#: vc_map/counterbox.php:46
+msgid "Enter text which will be used as title."
+msgstr ""
+
+#: vc_map/counterbox.php:50
+msgid "Get automatic value of"
+msgstr ""
+
+#: vc_map/counterbox.php:52
+msgid ""
+"Ignore the next \"number\" attribute if this is set to something else then "
+"\"custom\""
+msgstr ""
+
+#: vc_map/counterbox.php:56 vc_map/map.php:20
+msgid "Resumes"
+msgstr ""
+
+#: vc_map/counterbox.php:57
+msgid "Posts"
+msgstr ""
+
+#: vc_map/counterbox.php:58
+msgid "Members"
+msgstr ""
+
+#: vc_map/counterbox.php:59
+msgid "Candidates"
+msgstr ""
+
+#: vc_map/counterbox.php:60
+msgid "Employers"
+msgstr ""
+
+#: vc_map/counterbox.php:66
+msgid "Value"
+msgstr ""
+
+#: vc_map/counterbox.php:68
+msgid "Only number (for example 2,147)."
+msgstr ""
+
+#: vc_map/counterbox.php:73
+msgid "Scale"
+msgstr ""
+
+#: vc_map/counterbox.php:75
+msgid "Optional. For example %, degrees, k, etc."
+msgstr ""
+
+#: vc_map/counterbox.php:79
+msgid "Width of the box"
+msgstr ""
+
+#: vc_map/counterbox.php:81
+msgid "Applicable if the element is a child of \"counters\" element"
+msgstr ""
+
+#: vc_map/counterbox.php:83
+msgid "One-third"
+msgstr ""
+
+#: vc_map/counterbox.php:84
+msgid "Two"
+msgstr ""
+
+#: vc_map/counterbox.php:85
+msgid "Three"
+msgstr ""
+
+#: vc_map/counterbox.php:86
+msgid "Four"
+msgstr ""
+
+#: vc_map/flip_banner.php:10
+msgid "Flip Banner"
+msgstr ""
+
+#: vc_map/flip_banner.php:13
+msgid "Banner with text on hover"
+msgstr ""
+
+#: vc_map/flip_banner.php:18
+msgid "Visible text"
+msgstr ""
+
+#: vc_map/flip_banner.php:25
+msgid "Text displayed on hover"
+msgstr ""
+
+#: vc_map/flip_banner.php:32
+msgid "Banner url"
+msgstr ""
+
+#: vc_map/flip_banner.php:39 vc_map/imagebox.php:59
+msgid "Background image"
+msgstr ""
+
+#: vc_map/flip_banner.php:42 vc_map/imagebox.php:62
+#: vc_map/testimonials_wide.php:68
+msgid "Select image from media library."
+msgstr ""
+
+#: vc_map/flip_banner.php:46
+msgid "Overlay color"
+msgstr ""
+
+#: vc_map/flip_banner.php:49
+msgid "Select color."
+msgstr ""
+
+#: vc_map/flip_banner.php:53
+msgid "Opacity"
+msgstr ""
+
+#: vc_map/headline.php:10
+msgid "Headline"
+msgstr ""
+
+#: vc_map/headline.php:13
+msgid "Header"
+msgstr ""
+
+#: vc_map/headline.php:27
+msgid "Optional  subtitle"
+msgstr ""
+
+#: vc_map/headline.php:40
+msgid "Select element tag."
+msgstr ""
+
+#: vc_map/headline.php:41
+msgid "Select text alignment."
+msgstr ""
+
+#: vc_map/headline.php:42
+msgid "Enter font size (add scale like px, %, em etc)."
+msgstr ""
+
+#: vc_map/headline.php:43
+msgid "Enter line height (add scale like px, %, em etc)."
+msgstr ""
+
+#: vc_map/headline.php:44
+msgid "Select color for your element."
+msgstr ""
+
+#: vc_map/headline.php:50
+msgid "Top margin"
+msgstr ""
+
+#: vc_map/headline.php:65
+msgid "Choose top margin (in px)"
+msgstr ""
+
+#: vc_map/headline.php:69
+msgid "Bottom margin"
+msgstr ""
+
+#: vc_map/headline.php:84
+msgid "Choose bottom margin (in px)"
+msgstr ""
+
+#: vc_map/headline.php:88
+msgid "URL (Link)"
+msgstr ""
+
+#: vc_map/headline.php:90
+msgid "Button link."
+msgstr ""
+
+#: vc_map/headline.php:94
+msgid "Clearfix after?"
+msgstr ""
+
+#: vc_map/headline.php:96
+msgid ""
+"Add clearfix after headline, you might want to disable it for some elements, "
+"like the recent products carousel."
+msgstr ""
+
+#: vc_map/headline.php:98
+msgid "Yes, please"
+msgstr ""
+
+#: vc_map/headline.php:99
+msgid "No, thank you"
+msgstr ""
+
+#: vc_map/iconbox.php:9 vc_map/iconbox.php:12
+msgid "Iconbox"
+msgstr ""
+
+#: vc_map/iconbox.php:32
+msgid "Iconbox link"
+msgstr ""
+
+#: vc_map/iconbox.php:36 vc_map/iconbox.php:43
+msgid "Icon"
+msgstr ""
+
+#: vc_map/iconbox.php:47
+msgid "Type"
+msgstr ""
+
+#: vc_map/iconbox.php:49
+msgid "Choose style"
+msgstr ""
+
+#: vc_map/imagebox.php:32
+msgid "Imagebox"
+msgstr ""
+
+#: vc_map/imagebox.php:35
+msgid "Box displaying custom taxonomy"
+msgstr ""
+
+#: vc_map/imagebox.php:41
+msgid "Region"
+msgstr ""
+
+#: vc_map/imagebox.php:43
+msgid "Choose region"
+msgstr ""
+
+#: vc_map/imagebox.php:50
+msgid "Or Job Type"
+msgstr ""
+
+#: vc_map/imagebox.php:66
+msgid "Add Featured badge?"
+msgstr ""
+
+#: vc_map/imagebox.php:73
+msgid "Show counter?"
+msgstr ""
+
+#: vc_map/infobanner.php:9
+msgid "Same window"
+msgstr ""
+
+#: vc_map/infobanner.php:10
+msgid "New window"
+msgstr ""
+
+#: vc_map/infobanner.php:13
+msgid "Info Banner"
+msgstr ""
+
+#: vc_map/infobanner.php:16
+msgid "Shows call-to-action box"
+msgstr ""
+
+#: vc_map/infobanner.php:31 vc_map/pricing_table.php:65
+msgid "Put here simple UL list"
+msgstr ""
+
+#: vc_map/infobanner.php:48
+msgid "Link target"
+msgstr ""
+
+#: vc_map/jobs.php:6
+msgid "Jobs (WPJM)"
+msgstr ""
+
+#: vc_map/jobs.php:13
+msgid "Per Page"
+msgstr ""
+
+#: vc_map/jobs.php:15
+msgid ""
+"Defaults to the ‘per page’ option in settings. This controls how many jobs "
+"get listed per page.."
+msgstr ""
+
+#: vc_map/jobs.php:20
+msgid "Orderby"
+msgstr ""
+
+#: vc_map/jobs.php:27 vc_map/pricing_woo_tables.php:51
+#: vc_map/recent_blog.php:50 vc_map/spotlight_jobs.php:28
+#: vc_map/spotlight_resumes.php:28 vc_map/testimonials_carousel.php:44
+#: vc_map/testimonials_wide.php:28
+msgid "Date"
+msgstr ""
+
+#: vc_map/jobs.php:28 vc_map/pricing_woo_tables.php:55
+#: vc_map/recent_blog.php:54 vc_map/spotlight_jobs.php:32
+#: vc_map/spotlight_resumes.php:32 vc_map/testimonials_carousel.php:48
+#: vc_map/testimonials_wide.php:32
+msgid "Modified"
+msgstr ""
+
+#: vc_map/jobs.php:29
+msgid "Rand"
+msgstr ""
+
+#: vc_map/jobs.php:31
+msgid ""
+"Defaults to ‘featured’. Supports title, ID, name, date, modified, rand, "
+"featured."
+msgstr ""
+
+#: vc_map/jobs.php:41
+msgid ""
+"Defaults to ‘desc’. Can be set to ‘asc’ or ‘desc’ to choose the sorting "
+"direction."
+msgstr ""
+
+#: vc_map/jobs.php:46
+msgid "Show filters (over the list)"
+msgstr ""
+
+#: vc_map/jobs.php:58
+msgid "Show pagination"
+msgstr ""
+
+#: vc_map/jobs.php:80
+msgid "Job types"
+msgstr ""
+
+#: vc_map/jobs.php:91
+msgid "Location"
+msgstr ""
+
+#: vc_map/jobs.php:98
+msgid "Keywords"
+msgstr ""
+
+#: vc_map/jobs.php:117 vc_map/spotlight_jobs.php:101
+msgid "Filled"
+msgstr ""
+
+#: vc_map/map.php:6
+msgid "Jobs/Resumes Map"
+msgstr ""
+
+#: vc_map/map.php:9
+msgid "Shows map will all jobs/resumes"
+msgstr ""
+
+#: vc_map/map.php:15
+msgid "Content source"
+msgstr ""
+
+#: vc_map/map.php:17
+msgid "Choose maps or resumes (if applicable)"
+msgstr ""
+
+#: vc_map/map.php:19
+msgid "Job listings"
+msgstr ""
+
+#: vc_map/map.php:26
+msgid "Map height (in px) "
+msgstr ""
+
+#: vc_map/map.php:29
+msgid "Put just a number."
+msgstr ""
+
+#: vc_map/pricing_table.php:10 vc_map/pricing_table.php:13
+msgid "Pricing table"
+msgstr ""
+
+#: vc_map/pricing_table.php:18
+msgid "Type of table"
+msgstr ""
+
+#: vc_map/pricing_table.php:27
+msgid "Custom color"
+msgstr ""
+
+#: vc_map/pricing_table.php:29
+msgid "Select custom background color for table."
+msgstr ""
+
+#: vc_map/pricing_table.php:36 vc_map/pricing_table.php:45
+msgid ""
+"Enter text which will be used as widget title. Leave blank if no title is "
+"needed."
+msgstr ""
+
+#: vc_map/pricing_table.php:49 vc_map/pricing_woo_tables.php:50
+msgid "Price"
+msgstr ""
+
+#: vc_map/pricing_table.php:56
+msgid "Per"
+msgstr ""
+
+#: vc_map/pricing_table.php:69
+msgid "Button URL"
+msgstr ""
+
+#: vc_map/pricing_woo_tables.php:6
+msgid "WooCommerce Pricing Tables"
+msgstr ""
+
+#: vc_map/pricing_woo_tables.php:9
+msgid "Lists Products from WooCommerce"
+msgstr ""
+
+#: vc_map/pricing_woo_tables.php:22
+msgid "Redirect link"
+msgstr ""
+
+#: vc_map/pricing_woo_tables.php:25
+msgid "Leave empty to use default add to cart action"
+msgstr ""
+
+#: vc_map/pricing_woo_tables.php:29
+msgid "Product types"
+msgstr ""
+
+#: vc_map/pricing_woo_tables.php:32
+msgid "Job packages"
+msgstr ""
+
+#: vc_map/pricing_woo_tables.php:33
+msgid "Resume packages"
+msgstr ""
+
+#: vc_map/pricing_woo_tables.php:34
+msgid "Job packages subscriptions"
+msgstr ""
+
+#: vc_map/pricing_woo_tables.php:35
+msgid "Resume packages subscriptions"
+msgstr ""
+
+#: vc_map/pricing_woo_tables.php:43
+msgid "Set max limit for items or enter -1 to display all (limited to 1000)."
+msgstr ""
+
+#: vc_map/pricing_woo_tables.php:53 vc_map/recent_blog.php:52
+#: vc_map/spotlight_jobs.php:30 vc_map/spotlight_resumes.php:30
+#: vc_map/testimonials_carousel.php:46 vc_map/testimonials_wide.php:30
+msgid "Author"
+msgstr ""
+
+#: vc_map/pricing_woo_tables.php:56 vc_map/recent_blog.php:55
+#: vc_map/spotlight_jobs.php:33 vc_map/spotlight_resumes.php:33
+#: vc_map/testimonials_carousel.php:49 vc_map/testimonials_wide.php:33
+msgid "Random"
+msgstr ""
+
+#: vc_map/recent_blog.php:10
+msgid "Recent blog posts"
+msgstr ""
+
+#: vc_map/recent_blog.php:13
+msgid "Recent posts list"
+msgstr ""
+
+#: vc_map/recent_blog.php:28
+msgid "In how many columns will be post displayed"
+msgstr ""
+
+#: vc_map/recent_blog.php:36
+msgid "Masonry mode"
+msgstr ""
+
+#: vc_map/recent_blog.php:40
+msgid "Disable"
+msgstr ""
+
+#: vc_map/recent_blog.php:41
+msgid "Enable"
+msgstr ""
+
+#: vc_map/recent_blog.php:56
+msgid "Comment count"
+msgstr ""
+
+#: vc_map/recent_blog.php:57
+msgid "Menu order"
+msgstr ""
+
+#: vc_map/recent_blog.php:73
+msgid "Exclude posts, leave empty to not exclude anything"
+msgstr ""
+
+#: vc_map/recent_blog.php:81
+msgid "Show only this categories"
+msgstr ""
+
+#: vc_map/recent_blog.php:87
+msgid "Show only this tags"
+msgstr ""
+
+#: vc_map/recent_blog.php:93 vc_map/spotlight_jobs.php:153
+msgid "Limit content by"
+msgstr ""
+
+#: vc_map/recent_blog.php:96 vc_map/spotlight_jobs.php:156
+msgid "Words"
+msgstr ""
+
+#: vc_map/recent_blog.php:97 vc_map/spotlight_jobs.php:157
+msgid "Characters"
+msgstr ""
+
+#: vc_map/recent_blog.php:102 vc_map/spotlight_jobs.php:162
+msgid "Limit"
+msgstr ""
+
+#: vc_map/recent_blog.php:104 vc_map/spotlight_jobs.php:164
+msgid "Limit number"
+msgstr ""
+
+#: vc_map/search_jobs.php:11
+msgid "Search Jobs Banner"
+msgstr ""
+
+#: vc_map/search_jobs.php:14
+msgid "Shows search box like on home page"
+msgstr ""
+
+#: vc_map/search_jobs.php:32
+msgid "Show or hide jobs counter"
+msgstr ""
+
+#: vc_map/search_jobs.php:34
+msgid "Hide"
+msgstr ""
+
+#: vc_map/search_jobs.php:35
+msgid "Show"
+msgstr ""
+
+#: vc_map/spotlight_jobs.php:9
+msgid "Featured jobs carousel"
+msgstr ""
+
+#: vc_map/spotlight_jobs.php:12
+msgid "Shows carousel with selected jobs"
+msgstr ""
+
+#: vc_map/spotlight_jobs.php:53
+msgid "Job Meta data"
+msgstr ""
+
+#: vc_map/spotlight_jobs.php:70 vc_map/spotlight_resumes.php:53
+msgid "From Categories only"
+msgstr ""
+
+#: vc_map/spotlight_jobs.php:80
+msgid "From job types only"
+msgstr ""
+
+#: vc_map/spotlight_jobs.php:82
+msgid "Add job types."
+msgstr ""
+
+#: vc_map/spotlight_jobs.php:91
+msgid "Show only this jobs"
+msgstr ""
+
+#: vc_map/spotlight_jobs.php:93
+msgid "Select jobs."
+msgstr ""
+
+#: vc_map/spotlight_jobs.php:104 vc_map/spotlight_jobs.php:146
+#: vc_map/spotlight_resumes.php:119
+msgid "Show all"
+msgstr ""
+
+#: vc_map/spotlight_jobs.php:105
+msgid "Show only filled"
+msgstr ""
+
+#: vc_map/spotlight_jobs.php:106
+msgid "Hide filled"
+msgstr ""
+
+#: vc_map/spotlight_jobs.php:112 vc_map/spotlight_resumes.php:76
+msgid "Visible Elements"
+msgstr ""
+
+#: vc_map/spotlight_jobs.php:114 vc_map/spotlight_resumes.php:78
+msgid ""
+"How many elements are visible at once for each screen size (desktop, "
+"netbook, tablet, mobile phone)."
+msgstr ""
+
+#: vc_map/spotlight_jobs.php:116 vc_map/spotlight_resumes.php:80
+msgid "1,1,1,1"
+msgstr ""
+
+#: vc_map/spotlight_jobs.php:117 vc_map/spotlight_resumes.php:81
+msgid "2,1,1,1"
+msgstr ""
+
+#: vc_map/spotlight_jobs.php:118 vc_map/spotlight_resumes.php:82
+msgid "2,2,1,1"
+msgstr ""
+
+#: vc_map/spotlight_jobs.php:119 vc_map/spotlight_resumes.php:83
+msgid "3,2,1,1"
+msgstr ""
+
+#: vc_map/spotlight_jobs.php:120 vc_map/spotlight_resumes.php:84
+msgid "3,3,1,1"
+msgstr ""
+
+#: vc_map/spotlight_jobs.php:121 vc_map/spotlight_resumes.php:85
+msgid "4,3,2,2"
+msgstr ""
+
+#: vc_map/spotlight_jobs.php:147 vc_map/spotlight_resumes.php:120
+msgid "Show only featured"
+msgstr ""
+
+#: vc_map/spotlight_resumes.php:9
+msgid "Featured Resumes carousel"
+msgstr ""
+
+#: vc_map/spotlight_resumes.php:12
+msgid "Shows carousel with selected resumes"
+msgstr ""
+
+#: vc_map/spotlight_resumes.php:55
+msgid "Add resumes categories."
+msgstr ""
+
+#: vc_map/spotlight_resumes.php:65
+msgid "Show only this resumes"
+msgstr ""
+
+#: vc_map/spotlight_resumes.php:67
+msgid "Select resumes."
+msgstr ""
+
+#: vc_map/spotlight_resumes.php:100
+msgid "Candidate photo"
+msgstr ""
+
+#: vc_map/testimonials_carousel.php:9
+msgid "Testimonials Carousel"
+msgstr ""
+
+#: vc_map/testimonials_carousel.php:12
+msgid "Shows clients testimonials"
+msgstr ""
+
+#: vc_map/testimonials_carousel.php:63 vc_map/testimonials_wide.php:47
+msgid "Exclude Testomionials"
+msgstr ""
+
+#: vc_map/testimonials_carousel.php:72 vc_map/testimonials_wide.php:56
+msgid "Include Testomionials"
+msgstr ""
+
+#: vc_map/testimonials_wide.php:9
+msgid "Testimonials (old)"
+msgstr ""
+
+#: vc_map/testimonials_wide.php:65
+msgid "Background Image for Testomionials section"
+msgstr ""
+
+#: workscout-core-template-functions.php:158
+msgid "--Choose page--"
+msgstr ""
+
+#: workscout-core-template-functions.php:213
+#: workscout-core-template-functions.php:229
+msgid "Anywhere"
+msgstr ""
+
+#: workscout-core-template-functions.php:464
+msgid "company"
+msgstr ""
+
+#: workscout-core-template-functions.php:998
+#, php-format
+msgid "\"%s\" (filetype %s) needs to be one of the following file types: %s"
+msgstr ""
+
+#: workscout-core-template-functions.php:1000
+#, php-format
+msgid "Uploaded files need to be one of the following file types: %s"
+msgstr ""
+
+#: workscout-core.php:173
+msgid "CMB2 Plugin is missing CMB2!"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WorkScout-Core - WorkScout WPJM Plugin by Purethemes"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.purethemes.net/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "WPJM Plugin from Purethemes.net for WorkScout theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Purethemes.net"
+msgstr ""
